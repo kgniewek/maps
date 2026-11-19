@@ -1,0 +1,118 @@
+name,lat,lng,note,color,start,end,icon,layer
+Korea (South),37.5665,126.978,"Former: Japan; Capital: Seoul; Event: Liberation Day (republic proclaimed 1948-08-15)",#ec4899,1945-08-15,,,Japanese
+Korea (North),39.0392,125.7625,"Former: Japan; Capital: Pyongyang; Event: Liberation Day (DPRK founded 1948-09-09)",#ec4899,1945-08-15,,,Japanese
+Indonesia,-6.2088,106.8456,"Former: Netherlands; Capital: Jakarta; Event: Proclamation (Dutch recognition 1949-12-27)",#f97316,1945-08-17,,,Dutch
+Vietnam,21.0285,105.8542,"Former: France; Capital: Hanoi; Event: Declaration of independence",#2563eb,1945-09-02,,,French
+Syria,33.5138,36.2765,"Former: France; Capital: Damascus; Event: Evacuation Day",#2563eb,1946-04-17,,,French
+Jordan,31.9454,35.9284,"Former: Britain; Capital: Amman; Event: End of British Mandate",#dc2626,1946-05-25,,,British
+Philippines,14.5995,120.9842,"Former: USA; Capital: Manila; Event: Treaty of Manila",#1e3a8a,1946-07-04,,,USA
+India,28.6139,77.209,"Former: Britain; Capital: New Delhi; Event: Independence",#dc2626,1947-08-15,,,British
+Pakistan,33.6844,73.0479,"Former: Britain; Capital: Islamabad (Karachi in 1947); Event: Independence",#dc2626,1947-08-14,,,British
+Myanmar,19.7633,96.0785,"Former: Britain; Capital: Naypyidaw (Yangon in 1948); Event: Independence",#dc2626,1948-01-04,,,British
+Sri Lanka,6.9271,79.8612,"Former: Britain; Capital: Colombo; Event: Independence (as Ceylon)",#dc2626,1948-02-04,,,British
+Israel,31.7683,35.2137,"Former: Britain; Capital: Jerusalem; Event: Declaration of independence",#dc2626,1948-05-14,,,British
+Laos,17.9757,102.6331,"Former: France; Capital: Vientiane; Event: Franco-Lao treaty",#2563eb,1949-07-19,,,French
+Libya,32.8872,13.1913,"Former: Italy; Capital: Tripoli; Event: Independence (under UN plan)",#14b8a6,1951-12-24,,,Italian
+Cambodia,11.5564,104.9282,"Former: France; Capital: Phnom Penh; Event: Independence",#2563eb,1953-11-09,,,French
+Sudan,15.5007,32.5599,"Former: Britain/Egypt; Capital: Khartoum; Event: Independence",#dc2626,1956-01-01,,,British
+Morocco,34.0209,-6.8416,"Former: France; Capital: Rabat; Event: Franco-Moroccan agreement",#2563eb,1956-03-02,,,French
+Tunisia,36.8065,10.1815,"Former: France; Capital: Tunis; Event: Independence",#2563eb,1956-03-20,,,French
+Ghana,5.6037,-0.187,"Former: Britain; Capital: Accra; Event: Independence (first sub-Saharan colony)",#dc2626,1957-03-06,,,British
+Malaysia (Malaya),3.139,101.6869,"Former: Britain; Capital: Kuala Lumpur; Event: Merdeka",#dc2626,1957-08-31,,,British
+Guinea,9.6412,-13.5784,"Former: France; Capital: Conakry; Event: Independence after referendum",#2563eb,1958-10-02,,,French
+Cameroon,3.848,11.5021,"Former: France; Capital: Yaoundé; Event: Independence",#2563eb,1960-01-01,,,French
+Somalia,2.0469,45.3182,"Former: Italy/Britain; Capital: Mogadishu; Event: Union of Italian and British Somaliland",#14b8a6,1960-07-01,,,Italian
+Togo,6.1725,1.2314,"Former: France; Capital: Lomé; Event: Independence",#2563eb,1960-04-27,,,French
+Senegal,14.7167,-17.4677,"Former: France; Capital: Dakar; Event: Independence (Mali Federation breakup)",#2563eb,1960-04-04,,,French
+Madagascar,-18.8792,47.5079,"Former: France; Capital: Antananarivo; Event: Independence",#2563eb,1960-06-26,,,French
+DR Congo,-4.4419,15.2663,"Former: Belgium; Capital: Kinshasa; Event: Independence",#eab308,1960-06-30,,,Belgian
+Benin,6.4969,2.6289,"Former: France; Capital: Porto-Novo; Event: Independence (as Dahomey)",#2563eb,1960-08-01,,,French
+Niger,13.5116,2.1254,"Former: France; Capital: Niamey; Event: Independence",#2563eb,1960-08-03,,,French
+Burkina Faso,12.3714,-1.5197,"Former: France; Capital: Ouagadougou; Event: Independence (as Upper Volta)",#2563eb,1960-08-05,,,French
+Côte d'Ivoire,6.8276,-5.2893,"Former: France; Capital: Yamoussoukro; Event: Independence",#2563eb,1960-08-07,,,French
+Chad,12.1348,15.0557,"Former: France; Capital: N'Djamena; Event: Independence",#2563eb,1960-08-11,,,French
+Central African Republic,4.3947,18.5582,"Former: France; Capital: Bangui; Event: Independence",#2563eb,1960-08-13,,,French
+Congo (Republic),-4.2634,15.2429,"Former: France; Capital: Brazzaville; Event: Independence",#2563eb,1960-08-15,,,French
+Gabon,0.4162,9.4673,"Former: France; Capital: Libreville; Event: Independence",#2563eb,1960-08-17,,,French
+Mali,12.6392,-8.0029,"Former: France; Capital: Bamako; Event: Independence",#2563eb,1960-09-22,,,French
+Nigeria,9.0765,7.3986,"Former: Britain; Capital: Abuja (Lagos in 1960); Event: Independence",#dc2626,1960-10-01,,,British
+Cyprus,35.1856,33.3823,"Former: Britain; Capital: Nicosia; Event: Independence",#dc2626,1960-10-01,,,British
+Mauritania,18.0735,-15.9582,"Former: France; Capital: Nouakchott; Event: Independence",#2563eb,1960-11-28,,,French
+Sierra Leone,8.4657,-13.2317,"Former: Britain; Capital: Freetown; Event: Independence",#dc2626,1961-04-27,,,British
+Kuwait,29.3759,47.9774,"Former: Britain; Capital: Kuwait City; Event: End of protectorate",#dc2626,1961-06-19,,,British
+Tanzania (Tanganyika),-6.163,35.7516,"Former: Britain; Capital: Dodoma (Dar es Salaam in 1961); Event: Tanganyika independence",#dc2626,1961-12-09,,,British
+Samoa,-13.8333,-171.7667,"Former: New Zealand; Capital: Apia; Event: Independence (as Western Samoa)",#06b6d4,1962-01-01,,,New Zealand
+Burundi,-3.4271,29.9246,"Former: Belgium; Capital: Gitega (Bujumbura in 1962); Event: Independence",#eab308,1962-07-01,,,Belgian
+Rwanda,-1.9441,30.0619,"Former: Belgium; Capital: Kigali; Event: Independence",#eab308,1962-07-01,,,Belgian
+Algeria,36.7538,3.0588,"Former: France; Capital: Algiers; Event: Independence after war",#2563eb,1962-07-05,,,French
+Jamaica,17.9714,-76.792,"Former: Britain; Capital: Kingston; Event: Independence",#dc2626,1962-08-06,,,British
+Trinidad and Tobago,10.6549,-61.5019,"Former: Britain; Capital: Port of Spain; Event: Independence",#dc2626,1962-08-31,,,British
+Uganda,0.3476,32.5825,"Former: Britain; Capital: Kampala; Event: Independence",#dc2626,1962-10-09,,,British
+Zanzibar,-6.1659,39.2026,"Former: Britain; Capital: Zanzibar City; Event: Independence (merged into Tanzania 1964)",#dc2626,1963-12-10,,,British
+Kenya,-1.2921,36.8219,"Former: Britain; Capital: Nairobi; Event: Independence",#dc2626,1963-12-12,,,British
+Malta,35.8989,14.5146,"Former: Britain; Capital: Valletta; Event: Independence",#dc2626,1964-09-21,,,British
+Malawi,-13.9626,33.7741,"Former: Britain; Capital: Lilongwe; Event: Independence (as Nyasaland)",#dc2626,1964-07-06,,,British
+Zambia,-15.3875,28.3228,"Former: Britain; Capital: Lusaka; Event: Independence (as Northern Rhodesia)",#dc2626,1964-10-24,,,British
+Gambia,13.4549,-16.579,"Former: Britain; Capital: Banjul; Event: Independence",#dc2626,1965-02-18,,,British
+Maldives,4.1755,73.5093,"Former: Britain; Capital: Malé; Event: Independence",#dc2626,1965-07-26,,,British
+Singapore,1.3521,103.8198,"Former: Britain; Capital: Singapore; Event: Separation from Malaysia",#dc2626,1965-08-09,,,British
+Guyana,6.8013,-58.1551,"Former: Britain; Capital: Georgetown; Event: Independence",#dc2626,1966-05-26,,,British
+Botswana,-24.6282,25.9231,"Former: Britain; Capital: Gaborone; Event: Independence (as Bechuanaland)",#dc2626,1966-09-30,,,British
+Lesotho,-29.3151,27.4869,"Former: Britain; Capital: Maseru; Event: Independence (as Basutoland)",#dc2626,1966-10-04,,,British
+Barbados,13.0975,-59.6167,"Former: Britain; Capital: Bridgetown; Event: Independence",#dc2626,1966-11-30,,,British
+Yemen (South),12.7855,45.0187,"Former: Britain; Capital: Aden; Event: Independence of South Yemen",#dc2626,1967-11-30,,,British
+Nauru,-0.5477,166.9209,"Former: Australia (UN trust); Capital: Yaren; Event: Independence",#84cc16,1968-01-31,,,Australian
+Mauritius,-20.1609,57.5012,"Former: Britain; Capital: Port Louis; Event: Independence",#dc2626,1968-03-12,,,British
+Eswatini,-26.3054,31.1367,"Former: Britain; Capital: Mbabane; Event: Independence (as Swaziland)",#dc2626,1968-09-06,,,British
+Equatorial Guinea,3.7523,8.7741,"Former: Spain; Capital: Malabo; Event: Independence",#a855f7,1968-10-12,,,Spanish
+Tonga,-21.1394,-175.2049,"Former: Britain; Capital: Nukuʻalofa; Event: End of protectorate",#dc2626,1970-06-04,,,British
+Fiji,-18.1416,178.4419,"Former: Britain; Capital: Suva; Event: Independence",#dc2626,1970-10-10,,,British
+Bangladesh,23.8103,90.4125,"Former: Pakistan; Capital: Dhaka; Event: Declaration of independence (Liberation War)",#65a30d,1971-03-26,,,Pakistani
+Bahrain,26.2285,50.586,"Former: Britain; Capital: Manama; Event: Independence",#dc2626,1971-08-15,,,British
+Qatar,25.2854,51.531,"Former: Britain; Capital: Doha; Event: Independence",#dc2626,1971-09-03,,,British
+United Arab Emirates,24.4539,54.3773,"Former: Britain; Capital: Abu Dhabi; Event: Formation of the UAE",#dc2626,1971-12-02,,,British
+Bahamas,25.0478,-77.3554,"Former: Britain; Capital: Nassau; Event: Independence",#dc2626,1973-07-10,,,British
+Guinea-Bissau,11.8037,-15.1804,"Former: Portugal; Capital: Bissau; Event: Unilateral declaration (Portugal recognised 1974-09-10)",#16a34a,1973-09-24,,,Portuguese
+Grenada,12.0561,-61.7488,"Former: Britain; Capital: St George's; Event: Independence",#dc2626,1974-02-07,,,British
+Mozambique,-25.9692,32.5732,"Former: Portugal; Capital: Maputo; Event: Independence",#16a34a,1975-06-25,,,Portuguese
+Cape Verde,14.9331,-23.5133,"Former: Portugal; Capital: Praia; Event: Independence",#16a34a,1975-07-05,,,Portuguese
+Comoros,-11.7172,43.2473,"Former: France; Capital: Moroni; Event: Unilateral declaration",#2563eb,1975-07-06,,,French
+São Tomé and Príncipe,0.3365,6.7273,"Former: Portugal; Capital: São Tomé; Event: Independence",#16a34a,1975-07-12,,,Portuguese
+Papua New Guinea,-9.4438,147.1803,"Former: Australia; Capital: Port Moresby; Event: Independence",#84cc16,1975-09-16,,,Australian
+Angola,-8.839,13.2894,"Former: Portugal; Capital: Luanda; Event: Independence",#16a34a,1975-11-11,,,Portuguese
+Suriname,5.852,-55.2038,"Former: Netherlands; Capital: Paramaribo; Event: Independence",#f97316,1975-11-25,,,Dutch
+Timor-Leste,-8.5569,125.5603,"Former: Portugal; Capital: Dili; Event: Declaration (independence restored 2002-05-20)",#16a34a,1975-11-28,,,Portuguese
+Seychelles,-4.6191,55.4513,"Former: Britain; Capital: Victoria; Event: Independence",#dc2626,1976-06-29,,,British
+Djibouti,11.5721,43.1456,"Former: France; Capital: Djibouti; Event: Independence",#2563eb,1977-06-27,,,French
+Solomon Islands,-9.4456,159.9729,"Former: Britain; Capital: Honiara; Event: Independence",#dc2626,1978-07-07,,,British
+Tuvalu,-8.5243,179.1942,"Former: Britain; Capital: Funafuti; Event: Independence",#dc2626,1978-10-01,,,British
+Dominica,15.301,-61.387,"Former: Britain; Capital: Roseau; Event: Independence",#dc2626,1978-11-03,,,British
+Saint Lucia,14.0101,-60.9875,"Former: Britain; Capital: Castries; Event: Independence",#dc2626,1979-02-22,,,British
+Kiribati,1.3382,173.0176,"Former: Britain; Capital: South Tarawa; Event: Independence",#dc2626,1979-07-12,,,British
+Saint Vincent and the Grenadines,13.1587,-61.2248,"Former: Britain; Capital: Kingstown; Event: Independence",#dc2626,1979-10-27,,,British
+Zimbabwe,-17.8252,31.0335,"Former: Britain; Capital: Harare; Event: Independence (as Rhodesia, UDI 1965)",#dc2626,1980-04-18,,,British
+Vanuatu,-17.7333,168.3273,"Former: Britain/France (condominium); Capital: Port Vila; Event: Independence",#dc2626,1980-07-30,,,British
+Belize,17.251,-88.759,"Former: Britain; Capital: Belmopan; Event: Independence",#dc2626,1981-09-21,,,British
+Antigua and Barbuda,17.1274,-61.8468,"Former: Britain; Capital: St John's; Event: Independence",#dc2626,1981-11-01,,,British
+Saint Kitts and Nevis,17.2955,-62.725,"Former: Britain; Capital: Basseterre; Event: Independence",#dc2626,1983-09-19,,,British
+Brunei,4.9031,114.9398,"Former: Britain; Capital: Bandar Seri Begawan; Event: Full independence",#dc2626,1984-01-01,,,British
+Marshall Islands,7.0897,171.3803,"Former: USA (UN trust); Capital: Majuro; Event: Compact of Free Association",#1e3a8a,1986-10-21,,,USA
+Micronesia (FSM),6.9248,158.1611,"Former: USA (UN trust); Capital: Palikir; Event: Compact of Free Association",#1e3a8a,1986-11-03,,,USA
+Namibia,-22.5609,17.0658,"Former: South Africa (ex-German colony); Capital: Windhoek; Event: Independence",#78716c,1990-03-21,,,South African
+Lithuania,54.6872,25.2797,"Former: USSR; Capital: Vilnius; Event: Restoration of independence",#7f1d1d,1990-03-11,,,Soviet
+Georgia,41.7151,44.8271,"Former: USSR; Capital: Tbilisi; Event: Restoration of independence",#7f1d1d,1991-04-09,,,Soviet
+Belarus,53.9006,27.559,"Former: USSR; Capital: Minsk; Event: Independence declared",#7f1d1d,1991-08-25,,,Soviet
+Estonia,59.437,24.7536,"Former: USSR; Capital: Tallinn; Event: Restoration of independence",#7f1d1d,1991-08-20,,,Soviet
+Latvia,56.9496,24.1052,"Former: USSR; Capital: Riga; Event: Restoration of independence",#7f1d1d,1991-08-21,,,Soviet
+Ukraine,50.4501,30.5234,"Former: USSR; Capital: Kyiv; Event: Act of independence",#7f1d1d,1991-08-24,,,Soviet
+Moldova,47.0105,28.8638,"Former: USSR; Capital: Chișinău; Event: Declaration of independence",#7f1d1d,1991-08-27,,,Soviet
+Kyrgyzstan,42.8746,74.5698,"Former: USSR; Capital: Bishkek; Event: Independence",#7f1d1d,1991-08-31,,,Soviet
+Uzbekistan,41.2995,69.2401,"Former: USSR; Capital: Tashkent; Event: Independence",#7f1d1d,1991-08-31,,,Soviet
+Tajikistan,38.5598,68.787,"Former: USSR; Capital: Dushanbe; Event: Independence",#7f1d1d,1991-09-09,,,Soviet
+Armenia,40.1792,44.4991,"Former: USSR; Capital: Yerevan; Event: Independence referendum result",#7f1d1d,1991-09-21,,,Soviet
+Azerbaijan,40.4093,49.8671,"Former: USSR; Capital: Baku; Event: Restoration of independence",#7f1d1d,1991-10-18,,,Soviet
+Turkmenistan,37.9601,58.3261,"Former: USSR; Capital: Ashgabat; Event: Independence",#7f1d1d,1991-10-27,,,Soviet
+Kazakhstan,51.1694,71.4491,"Former: USSR; Capital: Astana; Event: Independence (last Soviet republic to declare)",#7f1d1d,1991-12-16,,,Soviet
+Eritrea,15.3229,38.9251,"Former: Ethiopia (ex-Italian); Capital: Asmara; Event: Independence after referendum",#a16207,1993-05-24,,,Ethiopian
+Palau,7.5006,134.6243,"Former: USA (UN trust); Capital: Ngerulmud; Event: Compact of Free Association",#1e3a8a,1994-10-01,,,USA
+South Sudan,4.8594,31.5713,"Former: Sudan (ex-British); Capital: Juba; Event: Independence",#92400e,2011-07-09,,,Sudanese
