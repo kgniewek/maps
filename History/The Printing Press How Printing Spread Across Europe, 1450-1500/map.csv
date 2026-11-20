@@ -1,0 +1,87 @@
+name,lat,lng,note,color,start,end,icon,layer
+Mainz,49.9929,8.2473,"Germany; Gutenberg's workshop, birthplace of movable-type printing in Europe; Precision: year (c. 1450)",#7f1d1d,1450-01-01,,,1450s
+Strasbourg,48.5734,7.7521,France (then Holy Roman Empire); Johann Mentelin's press; Precision: year (c. 1458),#7f1d1d,1458-01-01,,,1450s
+Bamberg,49.8988,10.9028,Germany; Albrecht Pfister printed some of the first illustrated books; Precision: year (c. 1460),#dc2626,1460-01-01,,,1460s
+Eltville,50.0364,8.1167,Germany; Precision: year (c. 1464),#dc2626,1464-01-01,,,1460s
+Cologne,50.9375,6.9603,Germany; Ulrich Zell's press; Precision: year (c. 1464),#dc2626,1464-01-01,,,1460s
+Subiaco,41.9264,13.0956,Italy; first press in Italy at the Benedictine monastery; Precision: year,#dc2626,1465-01-01,,,1460s
+Basel,47.5596,7.5886,Switzerland; Precision: year,#dc2626,1466-01-01,,,1460s
+Rome,41.9028,12.4964,Italy; press moved here from Subiaco; Precision: year,#dc2626,1467-01-01,,,1460s
+Augsburg,48.3705,10.8978,Germany; Günther Zainer; Precision: year (c. 1468),#dc2626,1468-01-01,,,1460s
+Venice,45.4408,12.3155,Italy; Johann von Speyer received the first printing privilege; the city became Europe's printing capital; Precision: year,#dc2626,1469-01-01,,,1460s
+Milan,45.4642,9.19,Italy; Precision: year (c. 1469),#dc2626,1469-01-01,,,1460s
+Foligno,42.954,12.7032,Italy; Johann Neumeister printed an early edition of Dante's Divine Comedy here; Precision: year,#f97316,1470-01-01,,,1470s
+Nuremberg,49.4521,11.0767,Germany; Precision: year,#f97316,1470-01-01,,,1470s
+Paris,48.8566,2.3522,France; press set up at the Sorbonne; Precision: year,#f97316,1470-01-01,,,1470s
+Bologna,44.4949,11.3426,Italy; Precision: year (c. 1470),#f97316,1470-01-01,,,1470s
+Beromünster,47.1847,8.19,Switzerland; one of the earliest presses in a small town; Precision: year,#f97316,1470-01-01,,,1470s
+Treviso,45.6669,12.243,Italy; Precision: year,#f97316,1471-01-01,,,1470s
+Florence,43.7696,11.2558,Italy; Precision: year,#f97316,1471-01-01,,,1470s
+Ferrara,44.8381,11.6198,Italy; Precision: year,#f97316,1471-01-01,,,1470s
+Naples,40.8518,14.2681,Italy; Precision: year,#f97316,1471-01-01,,,1470s
+Perugia,43.1107,12.3908,Italy; Precision: year,#f97316,1471-01-01,,,1470s
+Genoa,44.4056,8.9463,Italy; Precision: year (c. 1471),#f97316,1471-01-01,,,1470s
+Speyer,49.3173,8.4312,Germany; Precision: year,#f97316,1471-01-01,,,1470s
+Pavia,45.1847,9.1582,Italy; Precision: year,#f97316,1471-01-01,,,1470s
+Padua,45.4064,11.8768,Italy; university city; Precision: year,#f97316,1472-01-01,,,1470s
+Verona,45.4384,10.9916,Italy; Precision: year,#f97316,1472-01-01,,,1470s
+Mantua,45.1564,10.7914,Italy; Precision: year,#f97316,1472-01-01,,,1470s
+Parma,44.8015,10.3279,Italy; Precision: year (c. 1472),#f97316,1472-01-01,,,1470s
+Segovia,40.9429,-4.1088,Spain; Johann Parix; first book printed in Spain is attributed to this press; Precision: year (c. 1472),#f97316,1472-01-01,,,1470s
+Esslingen,48.7396,9.3047,Germany; Precision: year,#f97316,1472-01-01,,,1470s
+Ulm,48.4011,9.9876,Germany; Precision: year,#f97316,1473-01-01,,,1470s
+Erfurt,50.9848,11.0299,Germany; Precision: year,#f97316,1473-01-01,,,1470s
+Utrecht,52.0907,5.1214,Netherlands; Precision: year,#f97316,1473-01-01,,,1470s
+Leuven,50.8798,4.7005,Belgium; university city; Precision: year,#f97316,1473-01-01,,,1470s
+Aalst,50.9387,4.0358,Belgium; Dirk Martens; Precision: year,#f97316,1473-01-01,,,1470s
+Bruges,51.2093,3.2247,Belgium; Colard Mansion later printed here; Caxton worked here before moving to England; Precision: year,#f97316,1473-01-01,,,1470s
+Lyon,45.764,4.8357,France; became a major French printing centre; Precision: year,#f97316,1473-01-01,,,1470s
+Buda,47.4979,19.0402,Hungary; Precision: year,#f97316,1473-01-01,,,1470s
+Kraków,50.0647,19.945,Poland; Kasper Straube; Precision: year (c. 1473-74),#f97316,1473-01-01,,,1470s
+Cremona,45.1336,10.0422,Italy; Precision: year,#f97316,1473-01-01,,,1470s
+Brescia,45.5416,10.2118,Italy; Precision: year,#f97316,1473-01-01,,,1470s
+Valencia,39.4699,-0.3763,Spain; Precision: year (c. 1473-74),#f97316,1474-01-01,,,1470s
+Turin,45.0703,7.6869,Italy; Precision: year,#f97316,1474-01-01,,,1470s
+Como,45.808,9.0852,Italy; Precision: year,#f97316,1474-01-01,,,1470s
+Vicenza,45.5455,11.5354,Italy; Precision: year,#f97316,1474-01-01,,,1470s
+Trento,46.0748,11.1217,Italy; Precision: year,#f97316,1475-01-01,,,1470s
+Wrocław,51.1079,17.0385,Poland; Precision: year,#f97316,1475-01-01,,,1470s
+Lübeck,53.8655,10.6866,Germany; Hanseatic city; Precision: year,#f97316,1475-01-01,,,1470s
+Zaragoza,41.6488,-0.8891,Spain; Precision: year (c. 1473-75),#f97316,1475-01-01,,,1470s
+Rostock,54.0924,12.0991,Germany; Precision: year,#f97316,1476-01-01,,,1470s
+Toulouse,43.6047,1.4442,France; Precision: year,#f97316,1476-01-01,,,1470s
+Prague,50.0755,14.4378,Czechia; Precision: year (c. 1476-78),#f97316,1476-01-01,,,1470s
+Westminster (London),51.4994,-0.1245,England; William Caxton set up the first press in England; Precision: year,#f97316,1476-01-01,,,1470s
+Deventer,52.2661,6.1552,Netherlands; Precision: year,#f97316,1477-01-01,,,1470s
+Delft,52.0116,4.3571,Netherlands; Precision: year,#f97316,1477-01-01,,,1470s
+Gouda,52.0115,4.7104,Netherlands; Precision: year,#f97316,1477-01-01,,,1470s
+Zwolle,52.5168,6.083,Netherlands; Precision: year,#f97316,1477-01-01,,,1470s
+Angers,47.4784,-0.5632,France; Precision: year,#f97316,1477-01-01,,,1470s
+Seville,37.3891,-5.9845,Spain; Precision: year (c. 1477),#f97316,1477-01-01,,,1470s
+Oxford,51.752,-1.2577,England; first press outside London; Precision: year,#f97316,1478-01-01,,,1470s
+Geneva,46.2044,6.1432,Switzerland; Precision: year,#f97316,1478-01-01,,,1470s
+Poitiers,46.5802,0.3404,France; Precision: year,#f97316,1479-01-01,,,1470s
+Würzburg,49.7913,9.9534,Germany; Precision: year,#f97316,1479-01-01,,,1470s
+St Albans,51.7527,-0.336,England; Precision: year (c. 1479),#f97316,1479-01-01,,,1470s
+Caen,49.1829,-0.3707,France; Precision: year,#eab308,1480-01-01,,,1480s
+Magdeburg,52.1205,11.6276,Germany; Precision: year,#eab308,1480-01-01,,,1480s
+Leipzig,51.3397,12.3731,Germany; later a major book-fair city; Precision: year,#eab308,1481-01-01,,,1480s
+Antwerp,51.2194,4.4025,Belgium; Precision: year,#eab308,1481-01-01,,,1480s
+Vienna,48.2082,16.3738,Austria; Precision: year,#eab308,1482-01-01,,,1480s
+Munich,48.1351,11.582,Germany; Precision: year (c. 1482),#eab308,1482-01-01,,,1480s
+Odense,55.4038,10.4024,Denmark; Johann Snell; first printing in Denmark; Precision: year,#eab308,1482-01-01,,,1480s
+Stockholm,59.3293,18.0686,Sweden; Precision: year,#eab308,1483-01-01,,,1480s
+Haarlem,52.3874,4.6462,Netherlands; Precision: year,#eab308,1483-01-01,,,1480s
+Toledo,39.8628,-4.0273,Spain; Precision: year,#eab308,1483-01-01,,,1480s
+Heidelberg,49.3988,8.6724,Germany; Precision: year,#eab308,1485-01-01,,,1480s
+Regensburg,49.0134,12.1016,Germany; Precision: year,#eab308,1485-01-01,,,1480s
+Rouen,49.4432,1.0993,France; Precision: year,#eab308,1485-01-01,,,1480s
+Burgos,42.3439,-3.6969,Spain; Precision: year,#eab308,1485-01-01,,,1480s
+Lisbon,38.7223,-9.1393,"Portugal; first press in Portugal, run by Jewish printers; Precision: year",#eab308,1487-01-01,,,1480s
+Dijon,47.322,5.0415,France; Precision: year,#22c55e,1490-01-01,,,1490s
+Hamburg,53.5511,9.9937,Germany; Precision: year,#22c55e,1491-01-01,,,1490s
+Copenhagen,55.6761,12.5683,Denmark; Precision: year,#22c55e,1493-01-01,,,1490s
+Cetinje,42.3911,18.9227,Montenegro; first Cyrillic printing in South Slavic lands; Precision: year,#22c55e,1493-01-01,,,1490s
+Constantinople,41.0082,28.9784,Turkey; Jewish printers; first press in the Ottoman Empire; Precision: year,#22c55e,1493-01-01,,,1490s
+Vadstena,58.4478,14.8886,Sweden; Precision: year,#22c55e,1495-01-01,,,1490s
+Tübingen,48.5216,9.0576,Germany; Precision: year,#22c55e,1498-01-01,,,1490s
