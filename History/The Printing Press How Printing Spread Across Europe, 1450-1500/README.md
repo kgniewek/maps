@@ -2,6 +2,10 @@ Watch a single invention take over a continent. The map starts in Mainz around 1
 
 Colors show the decade in which a city got its first press. Dark red is the 1450s, red the 1460s, orange the 1470s, yellow the 1480s and green the 1490s. The 1470s is the busiest decade by far, when printing spread from a few cities to nearly every major town in Western Europe.
 
+![A printing shop with a press and workers, from a Dance of Death woodcut](https://images.pdimagearchive.org/essays/our-mortal-waltz-the-dance-of-death-across-centuries/03-dance-of-death-printing-press.jpeg)
+
+*A printing shop at work, from a Dance of Death woodcut (Lyon, 1499).*
+
 Click a city to see the country and a short note on the press, such as the printer's name or why that place mattered. Each point sits in the city center.
 
 Dates show the year of the first known press and are not exact days. Many first printings are known only approximately, and some are debated by historians, so each note says how precise the date is.
