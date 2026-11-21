@@ -1,0 +1,483 @@
+name,lat,lng,note,color,start,end,icon,layer
+Marco Polo Bridge Incident,39.8497,116.2150,China; Fighting begins; Precision: day,#059669,1937-07-07,,,Pacific and Asia
+Battle of Beiping-Tianjin,39.3434,117.3616,China; Japanese victory; Precision: day,#059669,1937-07-25,1937-07-31,,Pacific and Asia
+Battle of Shanghai,31.2304,121.4737,China; Axis victory; Precision: day,#059669,1937-08-13,1937-11-26,,Pacific and Asia
+Battle of Nanjing,32.0603,118.7969,China; Axis victory; Precision: day,#059669,1937-12-01,1937-12-13,,Pacific and Asia
+Nanjing Massacre,32.0603,118.7969,China; Massacre of civilians and prisoners; Precision: day,#475569,1937-12-13,,,"Occupation, Holocaust and Resistance"
+Anschluss,48.2082,16.3738,Austria; Germany annexes Austria; Precision: day,#475569,1938-03-12,,,"Occupation, Holocaust and Resistance"
+Battle of Taierzhuang,34.5700,117.7300,China; Chinese victory; Precision: day,#059669,1938-03-24,1938-04-07,,Pacific and Asia
+Battle of Wuhan,30.5928,114.3055,China; Axis victory; Precision: day,#059669,1938-06-11,1938-10-27,,Pacific and Asia
+Munich Agreement,48.1458,11.5666,Germany; Agreement signed; Precision: day,#0ea5e9,1938-09-29,,,Diplomacy and Surrender
+Battle of Guangzhou,23.1291,113.2644,China; Japanese victory; Precision: day,#059669,1938-10-12,1938-10-21,,Pacific and Asia
+Kristallnacht,52.5200,13.4050,Germany; Nationwide attacks on Jews; Precision: day,#475569,1938-11-09,1938-11-10,,"Occupation, Holocaust and Resistance"
+German occupation of Prague,50.0755,14.4378,Czechia; Germany occupies Czechoslovakia; Precision: day,#475569,1939-03-15,,,"Occupation, Holocaust and Resistance"
+Battle of Nanchang,28.6820,115.8579,China; Japanese victory; Precision: day,#059669,1939-03-17,1939-04-09,,Pacific and Asia
+Bombing of Chongqing,29.5630,106.5516,China; Japanese bombing raid; Precision: day,#059669,1939-05-03,1939-05-04,,Pacific and Asia
+Khalkhin Gol,47.7000,118.6000,Mongolia; Soviet victory; Precision: day,#059669,1939-05-11,1939-09-16,,Pacific and Asia
+Molotov-Ribbentrop Pact,55.7520,37.6175,Russia; Agreement signed; Precision: day,#0ea5e9,1939-08-23,,,Diplomacy and Surrender
+Westerplatte,54.4067,18.6700,Poland; Axis victory; Precision: day,#dc2626,1939-09-01,1939-09-07,,Eastern Front
+Wielun bombing,51.2183,18.5656,Poland; Axis victory; Precision: day,#dc2626,1939-09-01,,,Eastern Front
+Battle of Hel Peninsula,54.6083,18.8000,Poland; Axis victory; Precision: day,#dc2626,1939-09-01,1939-10-02,,Eastern Front
+Battle of the Atlantic (centre of the convoy routes),52.0000,-30.0000,At sea (North Atlantic); Allied victory; Precision: day,#7c3aed,1939-09-03,1945-05-08,,Atlantic and Naval
+Britain declares war on Germany,51.5034,-0.1276,United Kingdom; Declaration of war; Precision: day,#0ea5e9,1939-09-03,,,Diplomacy and Surrender
+Sinking of SS Athenia,56.7333,-14.0833,At sea (North Atlantic); Passenger ship sunk by U-boat; Precision: day,#7c3aed,1939-09-03,,,Atlantic and Naval
+Saar Offensive,49.2402,6.9969,Germany; Axis victory; Precision: day,#1d4ed8,1939-09-07,1939-09-17,,Western and Central Europe
+Siege of Warsaw (1939),52.2297,21.0122,Poland; Axis victory; Precision: day,#dc2626,1939-09-08,1939-09-28,,Eastern Front
+Battle of the Bzura,52.2310,19.3600,Poland; Axis victory; Precision: day,#dc2626,1939-09-09,1939-09-19,,Eastern Front
+Siege of Lwow,49.8397,24.0297,Ukraine; Soviet victory; Precision: day,#dc2626,1939-09-12,1939-09-22,,Eastern Front
+Modlin Fortress,52.4333,20.6833,Poland; Axis victory; Precision: day,#dc2626,1939-09-13,1939-09-29,,Eastern Front
+First Battle of Changsha,28.2282,112.9388,China; Chinese victory; Precision: day,#059669,1939-09-17,1939-10-06,,Pacific and Asia
+Battle of Kock,51.6400,22.4400,Poland; Axis victory; Precision: day,#dc2626,1939-10-02,1939-10-05,,Eastern Front
+Sinking of HMS Royal Oak,58.9333,-2.9667,United Kingdom; Axis victory; Precision: day,#7c3aed,1939-10-14,,,Atlantic and Naval
+Bombing of Helsinki (start of the Winter War),60.1699,24.9384,Finland; Soviet attack; Precision: day,#dc2626,1939-11-30,,,Eastern Front
+Battle of Suomussalmi,64.8833,28.9167,Finland; Finnish victory; Precision: day,#dc2626,1939-12-07,1940-01-08,,Eastern Front
+Battle of the River Plate,-34.0000,-49.0000,At sea (off Uruguay); Allied victory; Precision: day,#7c3aed,1939-12-13,,,Atlantic and Naval
+Moscow Peace Treaty,55.7558,37.6173,Russia; Treaty signed; Precision: day,#0ea5e9,1940-03-12,,,Diplomacy and Surrender
+Narvik,68.4385,17.4272,Norway; Axis victory; Precision: day,#1d4ed8,1940-04-09,1940-06-08,,Western and Central Europe
+Invasion of Denmark (Copenhagen),55.6761,12.5683,Denmark; Axis victory; Precision: day,#1d4ed8,1940-04-09,,,Western and Central Europe
+Drobak Sound (sinking of the Blucher),59.6600,10.6300,Norway; Norwegian victory; Precision: day,#1d4ed8,1940-04-09,,,Western and Central Europe
+Hegra Fortress,63.4500,11.1500,Norway; Axis victory; Precision: day,#1d4ed8,1940-04-09,1940-05-05,,Western and Central Europe
+Battle of Dombas,62.0750,9.1167,Norway; Norwegian victory; Precision: day,#1d4ed8,1940-04-14,1940-04-19,,Western and Central Europe
+Namsos landing,64.4667,11.5000,Norway; Axis victory; Precision: day,#1d4ed8,1940-04-14,1940-05-03,,Western and Central Europe
+Andalsnes landing,62.5667,7.7000,Norway; Axis victory; Precision: day,#1d4ed8,1940-04-18,1940-05-02,,Western and Central Europe
+Battle of Zaoyang-Yichang,30.6919,111.2865,China; Japanese victory; Precision: day,#059669,1940-05-01,1940-06-24,,Pacific and Asia
+Eben-Emael,50.7958,5.6806,Belgium; Axis victory; Precision: day,#1d4ed8,1940-05-10,1940-05-11,,Western and Central Europe
+Battle of the Grebbeberg,51.9533,5.5656,Netherlands; Axis victory; Precision: day,#1d4ed8,1940-05-10,1940-05-13,,Western and Central Europe
+Battle of The Hague (1940),52.0705,4.3007,Netherlands; Allied victory (local); Precision: day,#1d4ed8,1940-05-10,1940-05-13,,Western and Central Europe
+Battle of Hannut,50.6700,5.0800,Belgium; Inconclusive; Precision: day,#1d4ed8,1940-05-12,1940-05-14,,Western and Central Europe
+Battle of Dinant,50.2600,4.9100,Belgium; Axis victory; Precision: day,#1d4ed8,1940-05-12,1940-05-15,,Western and Central Europe
+Sedan,49.7019,4.9400,France; Axis victory; Precision: day,#1d4ed8,1940-05-13,1940-05-15,,Western and Central Europe
+Battle of Monthermé,49.8800,4.5100,France; Axis victory; Precision: day,#1d4ed8,1940-05-13,1940-05-15,,Western and Central Europe
+Bombing of Rotterdam,51.9225,4.4792,Netherlands; Axis victory; Precision: day,#1d4ed8,1940-05-14,,,Western and Central Europe
+Battle of Gembloux,50.5600,4.6900,Belgium; Inconclusive; Precision: day,#1d4ed8,1940-05-14,1940-05-15,,Western and Central Europe
+Battle of Stonne,49.5500,4.9600,France; Axis victory; Precision: day,#1d4ed8,1940-05-15,1940-05-25,,Western and Central Europe
+Battle of Arras (1940),50.2900,2.7800,France; Inconclusive; Precision: day,#1d4ed8,1940-05-21,,,Western and Central Europe
+Battle of Boulogne,50.7258,1.6147,France; Axis victory; Precision: day,#1d4ed8,1940-05-22,1940-05-25,,Western and Central Europe
+Siege of Calais,50.9513,1.8587,France; Axis victory; Precision: day,#1d4ed8,1940-05-23,1940-05-26,,Western and Central Europe
+Battle of the Lys (1940),50.8280,3.2650,Belgium; Axis victory; Precision: day,#1d4ed8,1940-05-24,1940-05-28,,Western and Central Europe
+Dunkirk Evacuation,51.0343,2.3768,France; Allied evacuation; Precision: day,#1d4ed8,1940-05-26,1940-06-04,,Western and Central Europe
+Battle of Abbeville,50.1058,1.8350,France; Axis victory; Precision: day,#1d4ed8,1940-05-27,1940-06-04,,Western and Central Europe
+Saint-Valery-en-Caux,49.8700,0.7100,France; Axis victory; Precision: day,#1d4ed8,1940-06-10,1940-06-12,,Western and Central Europe
+Siege of Malta,35.8989,14.5146,Malta; Allied victory; Precision: day,#d97706,1940-06-11,1942-11-20,,Mediterranean and Africa
+Fall of Paris,48.8566,2.3522,France; Axis victory; Precision: day,#1d4ed8,1940-06-14,,,Western and Central Europe
+Battle of Saumur,47.2600,-0.0800,France; Axis victory; Precision: day,#1d4ed8,1940-06-18,1940-06-20,,Western and Central Europe
+Armistice of Compiegne,49.4167,2.9167,France; Armistice signed; Precision: day,#0ea5e9,1940-06-22,,,Diplomacy and Surrender
+Mers-el-Kebir,35.7333,-0.7000,Algeria; Allied victory; Precision: day,#d97706,1940-07-03,,,Mediterranean and Africa
+Battle of Britain,51.1279,1.3134,United Kingdom; Allied victory; Precision: day,#1d4ed8,1940-07-10,1940-10-31,,Western and Central Europe
+Battle of Tug Argan Gap,9.8333,44.0000,Somaliland; Axis victory; Precision: day,#d97706,1940-08-11,1940-08-15,,Mediterranean and Africa
+The Blitz (London),51.5074,-0.1278,United Kingdom; Allied victory; Precision: day,#1d4ed8,1940-09-07,1941-05-11,,Western and Central Europe
+Battle of Dakar,14.6937,-17.4441,Senegal; Axis victory; Precision: day,#7c3aed,1940-09-23,1940-09-25,,Atlantic and Naval
+Tripartite Pact,52.5200,13.4050,Germany; Agreement signed; Precision: day,#0ea5e9,1940-09-27,,,Diplomacy and Surrender
+Battle of Gabon,0.4162,9.4673,Gabon; Allied victory; Precision: day,#d97706,1940-11-08,1940-11-12,,Mediterranean and Africa
+Taranto,40.4764,17.2294,Italy; Allied victory; Precision: day,#d97706,1940-11-11,1940-11-12,,Mediterranean and Africa
+Coventry Blitz,52.4068,-1.5197,United Kingdom; Axis bombing raid; Precision: day,#1d4ed8,1940-11-14,,,Western and Central Europe
+Warsaw Ghetto sealed,52.2480,20.9900,Poland; Ghetto closed by German authorities; Precision: day,#475569,1940-11-16,,,"Occupation, Holocaust and Resistance"
+Birmingham Blitz,52.4862,-1.8904,United Kingdom; Axis bombing raid; Precision: day,#1d4ed8,1940-11-19,,,Western and Central Europe
+Bristol Blitz,51.4545,-2.5879,United Kingdom; Axis bombing raid; Precision: day,#1d4ed8,1940-11-24,,,Western and Central Europe
+Southampton Blitz,50.9097,-1.4044,United Kingdom; Axis bombing raid; Precision: day,#1d4ed8,1940-11-30,,,Western and Central Europe
+Sidi Barrani,31.6000,25.9167,Egypt; Allied victory; Precision: day,#d97706,1940-12-09,1940-12-11,,Mediterranean and Africa
+Sheffield Blitz,53.3811,-1.4701,United Kingdom; Axis bombing raid; Precision: day,#1d4ed8,1940-12-12,1940-12-15,,Western and Central Europe
+Bardia,31.7600,25.0800,Libya; Allied victory; Precision: day,#d97706,1941-01-03,1941-01-05,,Mediterranean and Africa
+Portsmouth Blitz,50.8198,-1.0880,United Kingdom; Axis bombing raid; Precision: day,#1d4ed8,1941-01-10,,,Western and Central Europe
+Tobruk (Operation Compass),32.0760,23.9760,Libya; Allied victory; Precision: day,#d97706,1941-01-21,1941-01-22,,Mediterranean and Africa
+Battle of Keren,15.7778,38.4528,Eritrea; Allied victory; Precision: day,#d97706,1941-02-05,1941-03-27,,Mediterranean and Africa
+Capture of Benghazi,32.1167,20.0667,Libya; Allied victory; Precision: day,#d97706,1941-02-06,,,Mediterranean and Africa
+Capture of Kismayo,-0.3582,42.5454,Somalia; Allied victory; Precision: day,#d97706,1941-02-14,,,Mediterranean and Africa
+Swansea Blitz,51.6214,-3.9436,United Kingdom; Axis bombing raid; Precision: day,#1d4ed8,1941-02-19,1941-02-21,,Western and Central Europe
+Capture of Mogadishu,2.0469,45.3182,Somalia; Allied victory; Precision: day,#d97706,1941-02-25,,,Mediterranean and Africa
+Clydebank Blitz,55.8990,-4.4040,United Kingdom; Axis bombing raid; Precision: day,#1d4ed8,1941-03-13,1941-03-15,,Western and Central Europe
+Plymouth Blitz,50.3755,-4.1427,United Kingdom; Axis bombing raid; Precision: day,#1d4ed8,1941-03-20,1941-03-21,,Western and Central Europe
+Cape Matapan,36.0000,21.8000,At sea (off Greece); Allied victory; Precision: day,#d97706,1941-03-28,1941-03-29,,Mediterranean and Africa
+Capture of Asmara,15.3229,38.9251,Eritrea; Allied victory; Precision: day,#d97706,1941-04-01,,,Mediterranean and Africa
+Bombing of Belgrade,44.8125,20.4612,Serbia; Axis victory; Precision: day,#d97706,1941-04-06,,,Mediterranean and Africa
+Capture of Addis Ababa,9.0300,38.7400,Ethiopia; Allied victory; Precision: day,#d97706,1941-04-06,,,Mediterranean and Africa
+Capture of Massawa,15.6081,39.4745,Eritrea; Allied victory; Precision: day,#d97706,1941-04-08,,,Mediterranean and Africa
+Siege of Tobruk,32.0760,23.9760,Libya; Allied victory; Precision: day,#d97706,1941-04-10,1941-11-27,,Mediterranean and Africa
+Belfast Blitz,54.5973,-5.9301,United Kingdom; Axis bombing raid; Precision: day,#1d4ed8,1941-04-15,,,Western and Central Europe
+Battle of Thermopylae (1941),38.8000,22.5333,Greece; Axis victory; Precision: day,#d97706,1941-04-24,,,Mediterranean and Africa
+Corinth Canal airborne assault,37.9333,22.9833,Greece; Axis victory; Precision: day,#d97706,1941-04-26,,,Mediterranean and Africa
+Fall of Athens,37.9838,23.7275,Greece; Axis victory; Precision: day,#d97706,1941-04-27,,,Mediterranean and Africa
+Liverpool May Blitz,53.4084,-2.9916,United Kingdom; Axis bombing raid; Precision: day,#1d4ed8,1941-05-01,1941-05-07,,Western and Central Europe
+Siege of Habbaniya,33.3753,43.5731,Iraq; Allied victory; Precision: day,#d97706,1941-05-02,1941-05-06,,Mediterranean and Africa
+Battle of Fallujah (1941),33.3500,43.7833,Iraq; Allied victory; Precision: day,#d97706,1941-05-19,,,Mediterranean and Africa
+Battle of Crete,35.5167,23.8500,Greece; Axis victory; Precision: day,#d97706,1941-05-20,1941-06-01,,Mediterranean and Africa
+Sinking of HMS Hood,63.3333,-31.8333,At sea (Denmark Strait); Axis victory; Precision: day,#7c3aed,1941-05-24,,,Atlantic and Naval
+Sinking of the Bismarck,48.1667,-16.2000,At sea (North Atlantic); Allied victory; Precision: day,#7c3aed,1941-05-27,,,Atlantic and Naval
+Battle of Damascus,33.5138,36.2765,Syria; Allied victory; Precision: day,#d97706,1941-06-21,,,Mediterranean and Africa
+Brest Fortress,52.0833,23.6556,Belarus; Axis victory; Precision: day,#dc2626,1941-06-22,,,Eastern Front
+Battle of Bialystok-Minsk,53.9006,27.5590,Belarus; Axis victory; Precision: day,#dc2626,1941-06-22,1941-07-03,,Eastern Front
+Siege of Hanko,59.8240,22.9500,Finland; Finnish victory; Precision: day,#dc2626,1941-06-22,1941-12-02,,Eastern Front
+Battle of Brody,50.0833,25.1500,Ukraine; Axis victory; Precision: day,#dc2626,1941-06-23,1941-06-30,,Eastern Front
+Battle of Raseiniai,55.3667,23.1167,Lithuania; Axis victory; Precision: day,#dc2626,1941-06-23,1941-06-27,,Eastern Front
+Battle of Palmyra,34.5500,38.2700,Syria; Allied victory; Precision: day,#d97706,1941-07-01,1941-07-03,,Mediterranean and Africa
+Battle of Smolensk,54.7826,32.0453,Russia; Axis victory; Precision: day,#dc2626,1941-07-10,1941-09-10,,Eastern Front
+Jedwabne pogrom,53.0500,22.1500,Poland; Massacre of Jewish civilians; Precision: day,#475569,1941-07-10,,,"Occupation, Holocaust and Resistance"
+Battle of Uman,48.7500,30.2167,Ukraine; Axis victory; Precision: day,#dc2626,1941-07-15,1941-08-08,,Eastern Front
+Battle of Yelnya,54.5833,33.1500,Russia; Soviet victory; Precision: day,#dc2626,1941-07-30,1941-09-06,,Eastern Front
+Siege of Odessa,46.4825,30.7233,Ukraine; Axis victory; Precision: day,#dc2626,1941-08-05,1941-10-16,,Eastern Front
+Battle of Tallinn,59.4370,24.7536,Estonia; Axis victory; Precision: day,#dc2626,1941-08-05,1941-08-28,,Eastern Front
+Atlantic Charter meeting,47.2500,-54.0000,"At sea (Placentia Bay, Canada); Allied leaders meet; Precision: day",#0ea5e9,1941-08-09,1941-08-12,,Diplomacy and Surrender
+Battle of Kiev (1941),50.4501,30.5234,Ukraine; Axis victory; Precision: day,#dc2626,1941-08-23,1941-09-26,,Eastern Front
+Anglo-Soviet invasion of Iran (Abadan),30.3392,48.3043,Iran; Allied victory; Precision: day,#d97706,1941-08-25,,,Mediterranean and Africa
+Second Battle of Changsha,28.2282,112.9388,China; Chinese victory; Precision: day,#059669,1941-09-07,1941-10-01,,Pacific and Asia
+Siege of Leningrad,59.9343,30.3351,Russia; Soviet victory; Precision: day,#dc2626,1941-09-08,1944-01-27,,Eastern Front
+Babi Yar,50.4714,30.4492,Ukraine; Mass shooting of Jewish civilians; Precision: day,#475569,1941-09-29,1941-09-30,,"Occupation, Holocaust and Resistance"
+Battle of Moscow,55.7558,37.6173,Russia; Soviet victory; Precision: day,#dc2626,1941-10-02,1942-01-07,,Eastern Front
+Battle of Vyazma-Bryansk,55.2100,34.2900,Russia; Axis victory; Precision: day,#dc2626,1941-10-02,1941-10-13,,Eastern Front
+Kragujevac massacre,44.0127,20.9114,Serbia; Massacre of civilians; Precision: day,#475569,1941-10-21,,,"Occupation, Holocaust and Resistance"
+Siege of Tula,54.1931,37.6177,Russia; Soviet victory; Precision: day,#dc2626,1941-10-24,1941-12-05,,Eastern Front
+Siege of Sevastopol,44.6167,33.5254,Ukraine; Axis victory; Precision: day,#dc2626,1941-10-30,1942-07-04,,Eastern Front
+Battle of Tikhvin,59.6500,33.5167,Russia; Soviet victory; Precision: day,#dc2626,1941-11-10,1941-12-30,,Eastern Front
+Battle of Gondar,12.6000,37.4667,Ethiopia; Allied victory; Precision: day,#d97706,1941-11-13,1941-11-27,,Mediterranean and Africa
+Battle of Rostov (1941),47.2357,39.7015,Russia; Soviet victory; Precision: day,#dc2626,1941-11-17,1941-12-02,,Eastern Front
+Pearl Harbor,21.3630,-157.9560,USA; Japanese victory; Precision: day,#059669,1941-12-07,,,Pacific and Asia
+Battle of Hong Kong,22.2800,114.1600,Hong Kong; Japanese victory; Precision: day,#059669,1941-12-08,1941-12-25,,Pacific and Asia
+Kota Bharu (start of the Malayan campaign),6.1333,102.2500,Malaysia; Japanese victory; Precision: day,#059669,1941-12-08,,,Pacific and Asia
+Battle of Wake Island,19.2800,166.6500,USA; Japanese victory; Precision: day,#059669,1941-12-08,1941-12-23,,Pacific and Asia
+Battle of Guam (1941),13.4443,144.7937,USA; Japanese victory; Precision: day,#059669,1941-12-08,1941-12-10,,Pacific and Asia
+Attack on Clark Field (1941),15.1856,120.5600,Philippines; Japanese victory; Precision: day,#059669,1941-12-08,,,Pacific and Asia
+Sinking of Prince of Wales and Repulse,3.5500,104.4667,At sea (South China Sea); Japanese victory; Precision: day,#059669,1941-12-10,,,Pacific and Asia
+Landing at Vigan,17.5747,120.3869,Philippines; Japanese victory; Precision: day,#059669,1941-12-10,,,Pacific and Asia
+Battle of Jitra,6.2667,100.4167,Malaysia; Japanese victory; Precision: day,#059669,1941-12-11,1941-12-12,,Pacific and Asia
+Raid on Alexandria,31.2001,29.9187,Egypt; Axis victory; Precision: day,#d97706,1941-12-19,,,Mediterranean and Africa
+Battle of Davao (1941),7.0731,125.6128,Philippines; Japanese victory; Precision: day,#059669,1941-12-20,,,Pacific and Asia
+Japanese landing at Lingayen Gulf,16.2000,120.2500,Philippines; Japanese victory; Precision: day,#059669,1941-12-22,,,Pacific and Asia
+Third Battle of Changsha,28.2282,112.9388,China; Chinese victory; Precision: day,#059669,1941-12-24,1942-01-15,,Pacific and Asia
+Battle of Kuching,1.5535,110.3593,Malaysia; Japanese victory; Precision: day,#059669,1941-12-24,,,Pacific and Asia
+Kerch-Feodosia landings,45.3560,36.4672,Ukraine; Soviet victory; Precision: day,#dc2626,1941-12-26,1942-01-02,,Eastern Front
+Operation Archery (Vagsoy raid),61.9333,5.1167,Norway; Allied raid; Precision: day,#1d4ed8,1941-12-27,,,Western and Central Europe
+Battle of Kampar,4.3167,101.1500,Malaysia; Japanese victory; Precision: day,#059669,1941-12-30,1942-01-02,,Pacific and Asia
+Fall of Manila (1942),14.5995,120.9842,Philippines; Japanese victory; Precision: day,#059669,1942-01-02,,,Pacific and Asia
+Battle of Bataan,14.4500,120.4500,Philippines; Japanese victory; Precision: day,#059669,1942-01-07,1942-04-09,,Pacific and Asia
+Battle of Slim River,3.8333,101.4000,Malaysia; Japanese victory; Precision: day,#059669,1942-01-07,,,Pacific and Asia
+Rzhev battles,56.2600,34.3300,Russia; Axis victory; Precision: day,#dc2626,1942-01-08,1943-03-31,,Eastern Front
+Battle of Tarakan (1942),3.3000,117.6333,Indonesia; Japanese victory; Precision: day,#059669,1942-01-10,1942-01-11,,Pacific and Asia
+Fall of Kuala Lumpur,3.1390,101.6869,Malaysia; Japanese victory; Precision: day,#059669,1942-01-11,,,Pacific and Asia
+Battle of Muar,2.0442,102.5689,Malaysia; Japanese victory; Precision: day,#059669,1942-01-14,1942-01-22,,Pacific and Asia
+Wannsee Conference,52.4333,13.1667,Germany; Meeting on the genocide of Jews; Precision: day,#475569,1942-01-20,,,"Occupation, Holocaust and Resistance"
+Battle of Rabaul,-4.2000,152.1833,Papua New Guinea; Japanese victory; Precision: day,#059669,1942-01-23,,,Pacific and Asia
+Battle of Balikpapan (1942),-1.2379,116.8529,Indonesia; Japanese victory; Precision: day,#059669,1942-01-24,,,Pacific and Asia
+Battle of Ambon,-3.6954,128.1814,Indonesia; Japanese victory; Precision: day,#059669,1942-01-30,1942-02-03,,Pacific and Asia
+Fall of Singapore,1.3521,103.8198,Singapore; Japanese victory; Precision: day,#059669,1942-02-08,1942-02-15,,Pacific and Asia
+Demyansk Pocket,57.6500,32.4667,Russia; Axis victory; Precision: day,#dc2626,1942-02-08,1942-04-21,,Eastern Front
+Channel Dash,51.0000,1.5000,At sea (English Channel); Axis victory; Precision: day,#7c3aed,1942-02-11,1942-02-13,,Atlantic and Naval
+Battle of Palembang,-2.9909,104.7566,Indonesia; Japanese victory; Precision: day,#059669,1942-02-13,1942-02-15,,Pacific and Asia
+Bombing of Darwin,-12.4634,130.8456,Australia; Japanese victory; Precision: day,#059669,1942-02-19,,,Pacific and Asia
+Battle of the Java Sea,-6.0000,112.0000,At sea (Java Sea); Japanese victory; Precision: day,#059669,1942-02-27,,,Pacific and Asia
+Bombing of Broome,-17.9614,122.2359,Australia; Japanese bombing raid; Precision: day,#059669,1942-03-03,,,Pacific and Asia
+Fall of Batavia,-6.2088,106.8456,Indonesia; Japanese victory; Precision: day,#059669,1942-03-05,,,Pacific and Asia
+Fall of Rangoon,16.8409,96.1735,Myanmar; Japanese victory; Precision: day,#059669,1942-03-08,,,Pacific and Asia
+St Nazaire Raid,47.2750,-2.2000,France; Allied raid; Precision: day,#7c3aed,1942-03-28,,,Atlantic and Naval
+Bombing of Lubeck,53.8655,10.6866,Germany; Allied bombing raid; Precision: day,#1d4ed8,1942-03-28,,,Western and Central Europe
+Easter Sunday Raid on Colombo,6.9271,79.8612,Sri Lanka; Japanese victory; Precision: day,#059669,1942-04-05,,,Pacific and Asia
+Raid on Trincomalee,8.5874,81.2152,Sri Lanka; Japanese victory; Precision: day,#059669,1942-04-09,,,Pacific and Asia
+Battle of Yenangyaung,20.4600,94.8700,Myanmar; Japanese victory; Precision: day,#059669,1942-04-10,1942-04-19,,Pacific and Asia
+Doolittle Raid on Tokyo,35.6762,139.6503,Japan; Allied raid; Precision: day,#059669,1942-04-18,,,Pacific and Asia
+Fall of Mandalay (1942),21.9588,96.0891,Myanmar; Japanese victory; Precision: day,#059669,1942-05-01,,,Pacific and Asia
+Battle of the Coral Sea,-15.0000,155.0000,At sea (Coral Sea); Inconclusive; Precision: day,#059669,1942-05-04,1942-05-08,,Pacific and Asia
+Madagascar (Diego Suarez),-12.2787,49.2917,Madagascar; Allied victory; Precision: day,#d97706,1942-05-05,1942-05-07,,Mediterranean and Africa
+Corregidor,14.3833,120.5667,Philippines; Japanese victory; Precision: day,#059669,1942-05-05,1942-05-06,,Pacific and Asia
+Battle of the Kerch Peninsula,45.3560,36.4672,Ukraine; Axis victory; Precision: day,#dc2626,1942-05-08,1942-05-19,,Eastern Front
+Second Battle of Kharkov,49.9935,36.2304,Ukraine; Axis victory; Precision: day,#dc2626,1942-05-12,1942-05-28,,Eastern Front
+Heydrich assassination attempt,50.1272,14.4688,Czechia; Attack on Nazi official; Precision: day,#475569,1942-05-27,,,"Occupation, Holocaust and Resistance"
+Thousand-bomber raid on Cologne,50.9375,6.9603,Germany; Allied bombing raid; Precision: day,#1d4ed8,1942-05-30,1942-05-31,,Western and Central Europe
+Dutch Harbor attack,53.8900,-166.5400,USA; Inconclusive; Precision: day,#059669,1942-06-03,1942-06-04,,Pacific and Asia
+Battle of Midway,28.2072,-177.3735,At sea (Midway Atoll); Allied victory; Precision: day,#059669,1942-06-04,1942-06-07,,Pacific and Asia
+Lidice massacre,50.1500,14.1883,Czechia; Massacre of civilians; Precision: day,#475569,1942-06-10,,,"Occupation, Holocaust and Resistance"
+Fall of Tobruk (1942),32.0760,23.9760,Libya; Axis victory; Precision: day,#d97706,1942-06-20,1942-06-21,,Mediterranean and Africa
+Battle of Voronezh (1942),51.6720,39.1843,Russia; Axis victory; Precision: day,#dc2626,1942-06-28,1942-07-24,,Eastern Front
+First Battle of El Alamein,30.8300,28.9500,Egypt; Inconclusive; Precision: day,#d97706,1942-07-01,1942-07-27,,Mediterranean and Africa
+Kokoda Track campaign,-8.8833,147.7333,Papua New Guinea; Allied victory; Precision: day,#059669,1942-07-21,1942-11-16,,Pacific and Asia
+Guadalcanal campaign,-9.4333,159.9500,Solomon Islands; Allied victory; Precision: day,#059669,1942-08-07,1943-02-09,,Pacific and Asia
+Battle of Savo Island,-9.1333,159.8167,At sea (Solomon Islands); Japanese victory; Precision: day,#059669,1942-08-08,1942-08-09,,Pacific and Asia
+Capture of Maykop,44.6000,40.1000,Russia; Axis victory; Precision: day,#dc2626,1942-08-09,,,Eastern Front
+Dieppe Raid,49.9231,1.0793,France; Axis victory; Precision: day,#1d4ed8,1942-08-19,,,Western and Central Europe
+Elbrus flag raising,43.3500,42.4453,Russia; Axis victory; Precision: day,#dc2626,1942-08-21,,,Eastern Front
+Battle of Tenaru,-9.4300,160.1000,Solomon Islands; Allied victory; Precision: day,#059669,1942-08-21,,,Pacific and Asia
+Battle of Stalingrad,48.7080,44.5133,Russia; Soviet victory; Precision: day,#dc2626,1942-08-23,1943-02-02,,Eastern Front
+Milne Bay,-10.3500,150.4500,Papua New Guinea; Allied victory; Precision: day,#059669,1942-08-25,1942-09-07,,Pacific and Asia
+Battle of Edson's Ridge,-9.4400,160.0500,Solomon Islands; Allied victory; Precision: day,#059669,1942-09-12,1942-09-14,,Pacific and Asia
+Battle of Tuapse,44.1000,39.0700,Russia; Soviet victory; Precision: day,#dc2626,1942-09-25,1942-12-17,,Eastern Front
+Second Battle of El Alamein,30.8300,28.9500,Egypt; Allied victory; Precision: day,#d97706,1942-10-23,1942-11-11,,Mediterranean and Africa
+Henderson Field battles,-9.4280,160.0540,Solomon Islands; Allied victory; Precision: day,#059669,1942-10-23,1942-10-26,,Pacific and Asia
+Battle of Santa Cruz Islands,-10.7000,166.1500,At sea (Solomon Islands); Japanese victory; Precision: day,#059669,1942-10-25,1942-10-27,,Pacific and Asia
+Operation Torch: Algiers landing,36.7538,3.0588,Algeria; Allied victory; Precision: day,#d97706,1942-11-08,,,Mediterranean and Africa
+Operation Torch: Oran landing,35.6911,-0.6417,Algeria; Allied victory; Precision: day,#d97706,1942-11-08,,,Mediterranean and Africa
+Operation Torch: Casablanca landing,33.5731,-7.5898,Morocco; Allied victory; Precision: day,#d97706,1942-11-08,,,Mediterranean and Africa
+Buna-Gona,-8.6500,148.4000,Papua New Guinea; Allied victory; Precision: day,#059669,1942-11-16,1943-01-22,,Pacific and Asia
+Operation Uranus,48.6900,43.5300,Russia; Soviet victory; Precision: day,#dc2626,1942-11-19,1942-11-23,,Eastern Front
+Velikiye Luki,56.3400,30.5200,Russia; Soviet victory; Precision: day,#dc2626,1942-11-24,1943-01-17,,Eastern Front
+Operation Frankton (Bordeaux),44.8378,-0.5792,France; Allied raid; Precision: day,#1d4ed8,1942-12-07,1942-12-12,,Western and Central Europe
+Operation Winter Storm,47.6300,43.1400,Russia; Soviet victory; Precision: day,#dc2626,1942-12-12,1942-12-23,,Eastern Front
+Operation Little Saturn,48.9167,40.4000,Russia; Soviet victory; Precision: day,#dc2626,1942-12-16,1942-12-30,,Eastern Front
+Battle of the Barents Sea,73.0000,30.0000,At sea (Barents Sea); Allied victory; Precision: day,#7c3aed,1942-12-31,,,Atlantic and Naval
+Operation Iskra (Leningrad),59.9500,31.0333,Russia; Soviet victory; Precision: day,#dc2626,1943-01-12,1943-01-30,,Eastern Front
+Casablanca Conference,33.5950,-7.6700,Morocco; Allied leaders meet; Precision: day,#0ea5e9,1943-01-14,1943-01-24,,Diplomacy and Surrender
+Battle of the Neretva,43.6575,17.7589,Bosnia and Herzegovina; Partisan victory; Precision: day,#d97706,1943-01-20,1943-03-15,,Mediterranean and Africa
+Capture of Tripoli,32.8872,13.1913,Libya; Allied victory; Precision: day,#d97706,1943-01-23,,,Mediterranean and Africa
+Wau,-7.3500,146.7167,Papua New Guinea; Allied victory; Precision: day,#059669,1943-01-29,1943-02-04,,Pacific and Asia
+Kasserine Pass,35.1750,8.6900,Tunisia; Axis victory; Precision: day,#d97706,1943-02-19,1943-02-24,,Mediterranean and Africa
+Third Battle of Kharkov,49.9935,36.2304,Ukraine; Axis victory; Precision: day,#dc2626,1943-02-19,1943-03-15,,Eastern Front
+Operation Gunnerside (Vemork),59.8730,8.4940,Norway; Allied sabotage; Precision: day,#475569,1943-02-27,,,"Occupation, Holocaust and Resistance"
+Battle of the Bismarck Sea,-7.5000,148.0000,At sea (Bismarck Sea); Allied victory; Precision: day,#059669,1943-03-02,1943-03-04,,Pacific and Asia
+Battle of Medenine,33.3547,10.5050,Tunisia; Allied victory; Precision: day,#d97706,1943-03-06,,,Mediterranean and Africa
+Mareth Line,33.6333,10.2833,Tunisia; Allied victory; Precision: day,#d97706,1943-03-20,1943-03-27,,Mediterranean and Africa
+Battle of El Guettar,34.3333,8.9500,Tunisia; Allied victory; Precision: day,#d97706,1943-03-23,1943-04-07,,Mediterranean and Africa
+Warsaw Ghetto Uprising,52.2480,20.9900,Poland; Uprising suppressed; Precision: day,#475569,1943-04-19,1943-05-16,,"Occupation, Holocaust and Resistance"
+Battle of Enfidaville,36.1333,10.3833,Tunisia; Allied victory; Precision: day,#d97706,1943-04-19,1943-05-13,,Mediterranean and Africa
+Fall of Tunis,36.8065,10.1815,Tunisia; Allied victory; Precision: day,#d97706,1943-05-07,,,Mediterranean and Africa
+Battle of Bizerte,37.2744,9.8739,Tunisia; Allied victory; Precision: day,#d97706,1943-05-07,,,Mediterranean and Africa
+Battle of Attu,52.8500,173.1800,USA; Allied victory; Precision: day,#059669,1943-05-11,1943-05-30,,Pacific and Asia
+Battle of the Sutjeska,43.3480,18.6900,Bosnia and Herzegovina; Axis victory; Precision: day,#d97706,1943-05-15,1943-06-16,,Mediterranean and Africa
+Dambusters Raid (Mohne Dam),51.4800,8.0600,Germany; Allied victory; Precision: day,#1d4ed8,1943-05-16,1943-05-17,,Western and Central Europe
+New Georgia campaign,-8.3200,157.2600,Solomon Islands; Allied victory; Precision: day,#059669,1943-06-30,1943-08-25,,Pacific and Asia
+Battle of Kursk,51.7373,36.1874,Russia; Soviet victory; Precision: day,#dc2626,1943-07-05,1943-08-23,,Eastern Front
+Invasion of Sicily (Gela),37.0660,14.2490,Italy; Allied victory; Precision: day,#d97706,1943-07-10,1943-08-17,,Mediterranean and Africa
+Battle of Prokhorovka,51.0361,36.7364,Russia; Inconclusive; Precision: day,#dc2626,1943-07-12,,,Eastern Front
+Oryol Offensive,52.9671,36.0696,Russia; Soviet victory; Precision: day,#dc2626,1943-07-12,1943-08-18,,Eastern Front
+Capture of Palermo,38.1157,13.3615,Italy; Allied victory; Precision: day,#d97706,1943-07-22,,,Mediterranean and Africa
+Bombing of Hamburg (Operation Gomorrah),53.5511,9.9937,Germany; Allied victory; Precision: day,#1d4ed8,1943-07-24,1943-08-03,,Western and Central Europe
+Operation Tidal Wave (Ploiesti),44.9417,26.0225,Romania; Axis victory; Precision: day,#1d4ed8,1943-08-01,,,Western and Central Europe
+Battle of Troina,37.7833,14.6000,Italy; Allied victory; Precision: day,#d97706,1943-08-01,1943-08-06,,Mediterranean and Africa
+Treblinka uprising,52.6311,22.0522,Poland; Prisoner revolt; Precision: day,#475569,1943-08-02,,,"Occupation, Holocaust and Resistance"
+Belgorod-Kharkov Offensive,50.5997,36.5983,Russia; Soviet victory; Precision: day,#dc2626,1943-08-03,1943-08-23,,Eastern Front
+Fall of Catania,37.5079,15.0830,Italy; Allied victory; Precision: day,#d97706,1943-08-05,,,Mediterranean and Africa
+Battle of Smolensk (1943),54.7826,32.0453,Russia; Soviet victory; Precision: day,#dc2626,1943-08-07,1943-10-02,,Eastern Front
+Battle of the Donbas,48.0159,37.8028,Ukraine; Soviet victory; Precision: day,#dc2626,1943-08-13,1943-09-22,,Eastern Front
+Battle of Vella Lavella,-7.7500,156.6700,Solomon Islands; Allied victory; Precision: day,#059669,1943-08-15,1943-10-09,,Pacific and Asia
+Operation Cottage (Kiska),51.9667,177.5000,USA; Allied victory; Precision: day,#059669,1943-08-15,,,Pacific and Asia
+Peenemunde raid,54.1400,13.7700,Germany; Allied victory; Precision: day,#1d4ed8,1943-08-17,,,Western and Central Europe
+Fall of Messina,38.1938,15.5540,Italy; Allied victory; Precision: day,#d97706,1943-08-17,,,Mediterranean and Africa
+Battle of the Dnieper,48.4647,35.0462,Ukraine; Soviet victory; Precision: day,#dc2626,1943-08-26,1943-12-23,,Eastern Front
+Reggio di Calabria landing,38.1100,15.6500,Italy; Allied victory; Precision: day,#d97706,1943-09-03,,,Mediterranean and Africa
+Armistice of Cassibile,36.9833,15.1833,Italy; Armistice signed; Precision: day,#0ea5e9,1943-09-03,,,Diplomacy and Surrender
+Battle of Lae,-6.7300,147.0000,Papua New Guinea; Allied victory; Precision: day,#059669,1943-09-04,1943-09-16,,Pacific and Asia
+Defence of Rome (Porta San Paolo),41.8756,12.4817,Italy; Axis victory; Precision: day,#d97706,1943-09-08,1943-09-10,,Mediterranean and Africa
+Salerno landings,40.4222,15.0050,Italy; Allied victory; Precision: day,#d97706,1943-09-09,1943-09-18,,Mediterranean and Africa
+Taranto landing (Operation Slapstick),40.4668,17.2400,Italy; Allied victory; Precision: day,#d97706,1943-09-09,,,Mediterranean and Africa
+Cephalonia massacre,38.1800,20.4900,Greece; Massacre of Italian soldiers; Precision: day,#475569,1943-09-15,1943-09-22,,"Occupation, Holocaust and Resistance"
+Battle of Finschhafen,-6.6000,147.8500,Papua New Guinea; Allied victory; Precision: day,#059669,1943-09-22,,,Pacific and Asia
+Battle of Melitopol,46.8489,35.3650,Ukraine; Soviet victory; Precision: day,#dc2626,1943-09-26,1943-11-05,,Eastern Front
+Operation Jaywick,1.2600,103.8500,Singapore; Allied raid; Precision: day,#059669,1943-09-26,,,Pacific and Asia
+Capture of Naples,40.8518,14.2681,Italy; Allied victory; Precision: day,#d97706,1943-10-01,,,Mediterranean and Africa
+Battle of Kos,36.8900,27.2900,Greece; Axis victory; Precision: day,#d97706,1943-10-03,1943-10-04,,Mediterranean and Africa
+Battle of Zaporizhzhia,47.8388,35.1396,Ukraine; Soviet victory; Precision: day,#dc2626,1943-10-10,1943-10-14,,Eastern Front
+Sobibor uprising,51.4486,23.5931,Poland; Prisoner revolt; Precision: day,#475569,1943-10-14,,,"Occupation, Holocaust and Resistance"
+Second Raid on Schweinfurt,50.0493,10.2194,Germany; Axis victory; Precision: day,#1d4ed8,1943-10-14,,,Western and Central Europe
+Bombing of Kassel,51.3127,9.4797,Germany; Allied bombing raid; Precision: day,#1d4ed8,1943-10-22,,,Western and Central Europe
+Battle of Bougainville,-6.2100,155.0300,Papua New Guinea; Allied victory; Precision: day,#059669,1943-11-01,1945-08-21,,Pacific and Asia
+Battle of Changde,29.0463,111.6985,China; Chinese victory; Precision: day,#059669,1943-11-02,,,Pacific and Asia
+Liberation of Kiev,50.4501,30.5234,Ukraine; Soviet victory; Precision: day,#dc2626,1943-11-03,1943-11-06,,Eastern Front
+Aktion Erntefest (Majdanek),51.2200,22.6000,Poland; Mass shooting of Jewish prisoners; Precision: day,#475569,1943-11-03,1943-11-04,,"Occupation, Holocaust and Resistance"
+Battle of Leros,37.1500,26.8500,Greece; Axis victory; Precision: day,#d97706,1943-11-12,1943-11-16,,Mediterranean and Africa
+Battle of Tarawa,1.3600,172.9300,Kiribati; Allied victory; Precision: day,#059669,1943-11-20,1943-11-23,,Pacific and Asia
+Battle of Makin,3.3100,172.9900,Kiribati; Allied victory; Precision: day,#059669,1943-11-20,1943-11-23,,Pacific and Asia
+Cairo Conference,30.0444,31.2357,Egypt; Allied leaders meet; Precision: day,#0ea5e9,1943-11-22,1943-11-26,,Diplomacy and Surrender
+Tehran Conference,35.6892,51.3890,Iran; Allied leaders meet; Precision: day,#0ea5e9,1943-11-28,1943-12-01,,Diplomacy and Surrender
+Bombing of Bari,41.1171,16.8719,Italy; Axis bombing raid; Precision: day,#d97706,1943-12-02,,,Mediterranean and Africa
+San Pietro Infine,41.4000,13.9500,Italy; Allied victory; Precision: day,#d97706,1943-12-08,1943-12-17,,Mediterranean and Africa
+Kalavryta massacre,38.0333,22.1167,Greece; Massacre of civilians; Precision: day,#475569,1943-12-13,,,"Occupation, Holocaust and Resistance"
+Battle of Ortona,42.3500,14.4000,Italy; Allied victory; Precision: day,#d97706,1943-12-20,1943-12-28,,Mediterranean and Africa
+Battle of the North Cape (sinking of Scharnhorst),72.2667,28.6833,At sea (Barents Sea); Allied victory; Precision: day,#7c3aed,1943-12-26,,,Atlantic and Naval
+Battle of Cape Gloucester,-5.4500,148.4500,Papua New Guinea; Allied victory; Precision: day,#059669,1943-12-26,,,Pacific and Asia
+Battle of Saidor,-5.6300,146.4700,Papua New Guinea; Allied victory; Precision: day,#059669,1944-01-02,,,Pacific and Asia
+Monte Cassino,41.4900,13.8142,Italy; Allied victory; Precision: day,#d97706,1944-01-17,1944-05-18,,Mediterranean and Africa
+Anzio,41.4500,12.6200,Italy; Allied victory; Precision: day,#d97706,1944-01-22,1944-06-05,,Mediterranean and Africa
+Korsun-Cherkassy Pocket,49.4167,31.2667,Ukraine; Soviet victory; Precision: day,#dc2626,1944-01-24,1944-02-17,,Eastern Front
+Battle of Cisterna,41.5900,12.8300,Italy; Axis victory; Precision: day,#d97706,1944-01-30,1944-02-02,,Mediterranean and Africa
+Kwajalein,8.7167,167.7333,Marshall Islands; Allied victory; Precision: day,#059669,1944-01-31,1944-02-03,,Pacific and Asia
+Battle of Narva,59.3772,28.1903,Estonia; Axis victory; Precision: day,#dc2626,1944-02-02,1944-08-10,,Eastern Front
+Eniwetok,11.3500,162.3500,Marshall Islands; Allied victory; Precision: day,#059669,1944-02-17,1944-02-23,,Pacific and Asia
+Operation Hailstone (Truk),7.4167,151.7833,Micronesia; Allied victory; Precision: day,#059669,1944-02-17,1944-02-18,,Pacific and Asia
+Admiralty Islands campaign,-2.0500,147.3500,Papua New Guinea; Allied victory; Precision: day,#059669,1944-02-29,1944-05-18,,Pacific and Asia
+Imphal,24.8170,93.9368,India; Allied victory; Precision: day,#059669,1944-03-08,1944-07-03,,Pacific and Asia
+Bombing of Frankfurt,50.1109,8.6821,Germany; Allied bombing raid; Precision: day,#1d4ed8,1944-03-22,,,Western and Central Europe
+Siege of Tarnopol,49.5535,25.5948,Ukraine; Soviet victory; Precision: day,#dc2626,1944-03-23,1944-04-15,,Eastern Front
+Ardeatine massacre,41.8567,12.5136,Italy; Massacre of civilians; Precision: day,#475569,1944-03-24,,,"Occupation, Holocaust and Resistance"
+Nuremberg Raid (RAF Bomber Command),49.4521,11.0767,Germany; Axis victory; Precision: day,#1d4ed8,1944-03-30,,,Western and Central Europe
+Kohima,25.6700,94.1100,India; Allied victory; Precision: day,#059669,1944-04-04,1944-06-22,,Pacific and Asia
+Crimean Offensive,44.6167,33.5254,Ukraine; Soviet victory; Precision: day,#dc2626,1944-04-08,1944-05-12,,Eastern Front
+Odessa Offensive,46.4825,30.7233,Ukraine; Soviet victory; Precision: day,#dc2626,1944-04-08,1944-04-14,,Eastern Front
+Hollandia,-2.5333,140.7167,Indonesia; Allied victory; Precision: day,#059669,1944-04-22,,,Pacific and Asia
+Siege of Myitkyina,25.3833,97.4000,Myanmar; Allied victory; Precision: day,#059669,1944-05-17,1944-08-03,,Pacific and Asia
+Drvar Raid,44.3667,16.3833,Bosnia and Herzegovina; Partisan victory; Precision: day,#d97706,1944-05-25,,,Mediterranean and Africa
+Biak,-1.1800,136.0800,Indonesia; Allied victory; Precision: day,#059669,1944-05-27,1944-08-20,,Pacific and Asia
+Liberation of Rome,41.9028,12.4964,Italy; Allied victory; Precision: day,#d97706,1944-06-04,,,Mediterranean and Africa
+D-Day: Utah Beach,49.4160,-1.1700,France; Allied victory; Precision: day,#1d4ed8,1944-06-06,,,Western and Central Europe
+D-Day: Omaha Beach,49.3700,-0.8800,France; Allied victory; Precision: day,#1d4ed8,1944-06-06,,,Western and Central Europe
+D-Day: Gold Beach,49.3400,-0.5500,France; Allied victory; Precision: day,#1d4ed8,1944-06-06,,,Western and Central Europe
+D-Day: Juno Beach,49.3400,-0.4500,France; Allied victory; Precision: day,#1d4ed8,1944-06-06,,,Western and Central Europe
+D-Day: Sword Beach,49.2850,-0.2500,France; Allied victory; Precision: day,#1d4ed8,1944-06-06,,,Western and Central Europe
+Pegasus Bridge,49.2447,-0.2740,France; Allied victory; Precision: day,#1d4ed8,1944-06-06,,,Western and Central Europe
+Sainte-Mere-Eglise,49.4084,-1.3170,France; Allied victory; Precision: day,#1d4ed8,1944-06-06,,,Western and Central Europe
+Battle for Caen,49.1829,-0.3707,France; Allied victory; Precision: day,#1d4ed8,1944-06-06,,,Western and Central Europe
+Pointe du Hoc,49.3943,-0.9906,France; Allied victory; Precision: day,#1d4ed8,1944-06-06,,,Western and Central Europe
+Merville Gun Battery,49.2873,-0.2161,France; Allied victory; Precision: day,#1d4ed8,1944-06-06,,,Western and Central Europe
+Liberation of Bayeux,49.2764,-0.7024,France; Allied victory; Precision: day,#1d4ed8,1944-06-07,,,Western and Central Europe
+Battle of Carentan,49.3028,-1.2467,France; Allied victory; Precision: day,#1d4ed8,1944-06-10,1944-06-13,,Western and Central Europe
+Oradour-sur-Glane massacre,45.9272,1.0397,France; Massacre of civilians; Precision: day,#475569,1944-06-10,,,"Occupation, Holocaust and Resistance"
+Vyborg-Petrozavodsk Offensive,60.7090,28.7510,Russia; Soviet victory; Precision: day,#dc2626,1944-06-10,1944-08-09,,Eastern Front
+Battle of Villers-Bocage,49.0833,-0.6500,France; Axis victory; Precision: day,#1d4ed8,1944-06-13,,,Western and Central Europe
+Battle of Saipan,15.1778,145.7500,Northern Mariana Islands; Allied victory; Precision: day,#059669,1944-06-15,1944-07-09,,Pacific and Asia
+Battle of the Philippine Sea,15.0000,135.0000,At sea (Philippine Sea); Allied victory; Precision: day,#059669,1944-06-19,1944-06-20,,Pacific and Asia
+Battle of Lake Trasimene,43.1500,12.1000,Italy; Allied victory; Precision: day,#d97706,1944-06-20,1944-06-30,,Mediterranean and Africa
+Operation Bagration,53.9006,27.5590,Belarus; Soviet victory; Precision: day,#dc2626,1944-06-22,1944-08-19,,Eastern Front
+Battle of Cherbourg,49.6337,-1.6221,France; Allied victory; Precision: day,#1d4ed8,1944-06-22,1944-06-30,,Western and Central Europe
+Hengyang,26.8934,112.5719,China; Japanese victory; Precision: day,#059669,1944-06-22,1944-08-08,,Pacific and Asia
+Vitebsk-Orsha Operation,55.1904,30.2049,Belarus; Soviet victory; Precision: day,#dc2626,1944-06-22,1944-06-27,,Eastern Front
+Mogilev Operation,53.9000,30.3333,Belarus; Soviet victory; Precision: day,#dc2626,1944-06-23,1944-06-28,,Eastern Front
+Bobruisk Offensive,53.1384,29.2214,Belarus; Soviet victory; Precision: day,#dc2626,1944-06-24,1944-06-29,,Eastern Front
+Liberation of Minsk,53.9006,27.5590,Belarus; Soviet victory; Precision: day,#dc2626,1944-07-03,,,Eastern Front
+Liberation of Siena,43.3188,11.3308,Italy; Allied victory; Precision: day,#d97706,1944-07-03,,,Mediterranean and Africa
+Liberation of Arezzo,43.4631,11.8796,Italy; Allied victory; Precision: day,#d97706,1944-07-04,,,Mediterranean and Africa
+Vilnius Offensive,54.6872,25.2797,Lithuania; Soviet victory; Precision: day,#dc2626,1944-07-07,1944-07-13,,Eastern Front
+Battle of Saint-Lo,49.1161,-1.0899,France; Allied victory; Precision: day,#1d4ed8,1944-07-11,1944-07-19,,Western and Central Europe
+Lvov-Sandomierz Offensive,49.8397,24.0297,Ukraine; Soviet victory; Precision: day,#dc2626,1944-07-13,1944-08-29,,Eastern Front
+Liberation of Ancona,43.6158,13.5189,Italy; Allied victory; Precision: day,#d97706,1944-07-18,,,Mediterranean and Africa
+Liberation of Livorno,43.5485,10.3106,Italy; Allied victory; Precision: day,#d97706,1944-07-19,,,Mediterranean and Africa
+20 July plot (Wolf's Lair),54.0806,21.4903,Poland; Failed assassination attempt on Hitler; Precision: day,#475569,1944-07-20,,,"Occupation, Holocaust and Resistance"
+Battle of Guam,13.4443,144.7937,USA; Allied victory; Precision: day,#059669,1944-07-21,1944-08-10,,Pacific and Asia
+Majdanek liberated,51.2200,22.6000,Poland; Camp liberated by Soviet troops; Precision: day,#475569,1944-07-23,,,"Occupation, Holocaust and Resistance"
+Battle of Tinian,15.0000,145.6333,Northern Mariana Islands; Allied victory; Precision: day,#059669,1944-07-24,1944-08-01,,Pacific and Asia
+Liberation of Lublin,51.2465,22.5684,Poland; Soviet victory; Precision: day,#dc2626,1944-07-24,,,Eastern Front
+Operation Cobra,49.1000,-1.2000,France; Allied victory; Precision: day,#1d4ed8,1944-07-25,1944-07-31,,Western and Central Europe
+Liberation of Brest,52.0976,23.7341,Belarus; Soviet victory; Precision: day,#dc2626,1944-07-28,,,Eastern Front
+Battle of Kaunas,54.8985,23.9036,Lithuania; Soviet victory; Precision: day,#dc2626,1944-07-28,1944-08-01,,Eastern Front
+Warsaw Uprising,52.2297,21.0122,Poland; Axis victory; Precision: day,#dc2626,1944-08-01,1944-10-02,,Eastern Front
+Liberation of Florence,43.7696,11.2558,Italy; Allied victory; Precision: day,#d97706,1944-08-04,,,Mediterranean and Africa
+Battle of Mortain,48.6500,-0.9400,France; Allied victory; Precision: day,#1d4ed8,1944-08-07,1944-08-13,,Western and Central Europe
+Battle of Brest,48.3904,-4.4861,France; Allied victory; Precision: day,#1d4ed8,1944-08-07,1944-09-19,,Western and Central Europe
+Falaise Pocket,48.8929,-0.1950,France; Allied victory; Precision: day,#1d4ed8,1944-08-12,1944-08-21,,Western and Central Europe
+Siege of Lorient,47.7482,-3.3702,France; Allied victory; Precision: day,#1d4ed8,1944-08-12,1945-05-10,,Western and Central Europe
+Operation Dragoon,43.4170,6.7690,France; Allied victory; Precision: day,#1d4ed8,1944-08-15,,,Western and Central Europe
+Liberation of Paris,48.8566,2.3522,France; Allied victory; Precision: day,#1d4ed8,1944-08-19,1944-08-25,,Western and Central Europe
+Iasi-Kishinev Offensive,47.1585,27.6014,Romania; Soviet victory; Precision: day,#dc2626,1944-08-20,1944-08-29,,Eastern Front
+Liberation of Toulon,43.1242,5.9280,France; Allied victory; Precision: day,#1d4ed8,1944-08-20,1944-08-28,,Western and Central Europe
+Liberation of Marseille,43.2965,5.3698,France; Allied victory; Precision: day,#1d4ed8,1944-08-21,1944-08-28,,Western and Central Europe
+Battle of Montelimar,44.5586,4.7508,France; Allied victory; Precision: day,#1d4ed8,1944-08-21,1944-08-29,,Western and Central Europe
+Operation Olive (Gothic Line),43.9100,12.9133,Italy; Allied victory; Precision: day,#d97706,1944-08-25,,,Mediterranean and Africa
+Slovak National Uprising,48.7360,19.1462,Slovakia; Axis victory; Precision: day,#475569,1944-08-29,1944-10-27,,"Occupation, Holocaust and Resistance"
+Battle of the Mons Pocket,50.4500,3.9500,Belgium; Allied victory; Precision: day,#1d4ed8,1944-09-02,1944-09-03,,Western and Central Europe
+Liberation of Pisa,43.7228,10.4017,Italy; Allied victory; Precision: day,#d97706,1944-09-02,,,Mediterranean and Africa
+Liberation of Brussels,50.8503,4.3517,Belgium; Allied victory; Precision: day,#1d4ed8,1944-09-03,,,Western and Central Europe
+Liberation of Lyon,45.7640,4.8357,France; Allied victory; Precision: day,#1d4ed8,1944-09-03,,,Western and Central Europe
+Liberation of Antwerp,51.2194,4.4025,Belgium; Allied victory; Precision: day,#1d4ed8,1944-09-04,,,Western and Central Europe
+Battle of Le Havre,49.4938,0.1077,France; Allied victory; Precision: day,#1d4ed8,1944-09-05,1944-09-12,,Western and Central Europe
+Carpatho-Dukla Offensive,49.4417,21.6892,Poland; Soviet victory; Precision: day,#dc2626,1944-09-08,1944-10-28,,Eastern Front
+Liberation of Luxembourg City,49.6116,6.1319,Luxembourg; Allied victory; Precision: day,#1d4ed8,1944-09-10,,,Western and Central Europe
+Bombing of Darmstadt,49.8728,8.6512,Germany; Allied bombing raid; Precision: day,#1d4ed8,1944-09-11,,,Western and Central Europe
+Battle of Overloon,51.5900,5.9500,Netherlands; Allied victory; Precision: day,#1d4ed8,1944-09-12,1944-10-18,,Western and Central Europe
+Battle of Rimini,44.0678,12.5695,Italy; Allied victory; Precision: day,#d97706,1944-09-14,1944-09-21,,Mediterranean and Africa
+Riga Offensive,56.9496,24.1052,Latvia; Soviet victory; Precision: day,#dc2626,1944-09-14,1944-10-22,,Eastern Front
+Battle of Peleliu,7.0000,134.2500,Palau; Allied victory; Precision: day,#059669,1944-09-15,1944-11-27,,Pacific and Asia
+Lapland War,66.5039,25.7294,Finland; Finnish victory; Precision: day,#dc2626,1944-09-15,1945-04-27,,Eastern Front
+Operation Market Garden (Arnhem),51.9851,5.8987,Netherlands; Axis victory; Precision: day,#1d4ed8,1944-09-17,1944-09-25,,Western and Central Europe
+Battle of Angaur,6.9000,134.1333,Palau; Allied victory; Precision: day,#059669,1944-09-17,1944-10-23,,Pacific and Asia
+Battle of Arracourt,48.7500,6.5333,France; Allied victory; Precision: day,#1d4ed8,1944-09-18,1944-09-29,,Western and Central Europe
+Hurtgen Forest,50.7000,6.3700,Germany; Axis victory; Precision: day,#1d4ed8,1944-09-19,1944-12-16,,Western and Central Europe
+Waal crossing at Nijmegen,51.8450,5.8500,Netherlands; Allied victory; Precision: day,#1d4ed8,1944-09-20,,,Western and Central Europe
+Battle of Belgrade,44.8176,20.4633,Serbia; Soviet victory; Precision: day,#dc2626,1944-09-28,1944-10-20,,Eastern Front
+Marzabotto massacre,44.3470,11.2070,Italy; Massacre of civilians; Precision: day,#475569,1944-09-29,1944-10-05,,"Occupation, Holocaust and Resistance"
+Battle of Aachen,50.7753,6.0839,Germany; Allied victory; Precision: day,#1d4ed8,1944-10-02,1944-10-21,,Western and Central Europe
+Battle of the Scheldt,51.4500,3.6000,Netherlands; Allied victory; Precision: day,#1d4ed8,1944-10-02,1944-11-08,,Western and Central Europe
+Battle of Memel,55.7033,21.1443,Lithuania; Soviet victory; Precision: day,#dc2626,1944-10-05,1945-01-28,,Eastern Front
+Battle of Debrecen,47.5316,21.6273,Hungary; Soviet victory; Precision: day,#dc2626,1944-10-06,1944-10-29,,Eastern Front
+Petsamo-Kirkenes Offensive,69.7270,30.0450,Norway; Soviet victory; Precision: day,#dc2626,1944-10-07,1944-10-29,,Eastern Front
+Liberation of Athens,37.9838,23.7275,Greece; Allied victory; Precision: day,#d97706,1944-10-12,,,Mediterranean and Africa
+Battle of Gumbinnen,54.5833,22.2000,Russia; Axis victory; Precision: day,#dc2626,1944-10-16,1944-10-27,,Eastern Front
+Landing at Leyte,11.2433,125.0039,Philippines; Allied victory; Precision: day,#059669,1944-10-20,,,Pacific and Asia
+Battle of Leyte Gulf,11.0000,126.0000,At sea (Philippines); Allied victory; Precision: day,#059669,1944-10-23,1944-10-26,,Pacific and Asia
+Walcheren landings (Operation Infatuate),51.5300,3.4500,Netherlands; Allied victory; Precision: day,#1d4ed8,1944-11-01,1944-11-08,,Western and Central Europe
+Sinking of the Tirpitz,69.6700,18.8100,Norway; Allied victory; Precision: day,#7c3aed,1944-11-12,,,Atlantic and Naval
+Liberation of Strasbourg,48.5734,7.7521,France; Allied victory; Precision: day,#1d4ed8,1944-11-23,,,Western and Central Europe
+Bombing of Heilbronn,49.1427,9.2109,Germany; Allied bombing raid; Precision: day,#1d4ed8,1944-12-04,,,Western and Central Europe
+Palawan massacre,9.7392,118.7353,Philippines; Massacre of US prisoners of war; Precision: day,#475569,1944-12-14,,,"Occupation, Holocaust and Resistance"
+Capture of Bhamo,24.2536,97.2314,Myanmar; Allied victory; Precision: day,#059669,1944-12-15,,,Pacific and Asia
+Battle of Mindoro,12.3500,121.0667,Philippines; Allied victory; Precision: day,#059669,1944-12-15,,,Pacific and Asia
+Battle of the Bulge (Bastogne),50.0000,5.7186,Belgium; Allied victory; Precision: day,#1d4ed8,1944-12-16,1945-01-25,,Western and Central Europe
+Elsenborn Ridge,50.4425,6.2542,Belgium; Allied victory; Precision: day,#1d4ed8,1944-12-16,,,Western and Central Europe
+Battle of St Vith,50.2800,6.1300,Belgium; Axis victory; Precision: day,#1d4ed8,1944-12-17,1944-12-23,,Western and Central Europe
+Malmedy massacre,50.4167,6.0372,Belgium; Massacre of US prisoners of war; Precision: day,#475569,1944-12-17,,,"Occupation, Holocaust and Resistance"
+Siege of Budapest,47.4979,19.0402,Hungary; Soviet victory; Precision: day,#dc2626,1944-12-29,1945-02-13,,Eastern Front
+Capture of Akyab,20.1500,92.9000,Myanmar; Allied victory; Precision: day,#059669,1945-01-03,,,Pacific and Asia
+Landing at Lingayen Gulf,16.2000,120.2500,Philippines; Allied victory; Precision: day,#059669,1945-01-09,,,Pacific and Asia
+Sandomierz-Silesian Offensive,50.6800,21.7500,Poland; Soviet victory; Precision: day,#dc2626,1945-01-12,1945-02-03,,Eastern Front
+Siege of Koenigsberg,54.7104,20.4522,Russia; Soviet victory; Precision: day,#dc2626,1945-01-13,1945-04-09,,Eastern Front
+Liberation of Warsaw,52.2297,21.0122,Poland; Soviet victory; Precision: day,#dc2626,1945-01-17,,,Eastern Front
+Colmar Pocket,48.0794,7.3585,France; Allied victory; Precision: day,#1d4ed8,1945-01-20,1945-02-09,,Western and Central Europe
+Battle of Ramree Island,19.0833,93.7500,Myanmar; Allied victory; Precision: day,#059669,1945-01-21,1945-02-22,,Pacific and Asia
+Battle of Clark Field (1945),15.1856,120.5600,Philippines; Allied victory; Precision: day,#059669,1945-01-23,1945-01-31,,Pacific and Asia
+Siege of Poznan,52.4064,16.9252,Poland; Soviet victory; Precision: day,#dc2626,1945-01-25,1945-02-23,,Eastern Front
+Auschwitz liberated,50.0343,19.1784,Poland; Camp liberated by Soviet troops; Precision: day,#475569,1945-01-27,,,"Occupation, Holocaust and Resistance"
+Raid at Cabanatuan,15.4860,120.9680,Philippines; Allied raid; Precision: day,#059669,1945-01-30,,,Pacific and Asia
+Sinking of the Wilhelm Gustloff,55.1167,17.7000,At sea (Baltic Sea); Ship sunk by Soviet submarine; Precision: day,#7c3aed,1945-01-30,,,Atlantic and Naval
+Siege of Kustrin,52.5883,14.6667,Poland; Soviet victory; Precision: day,#dc2626,1945-01-31,1945-03-30,,Eastern Front
+Battle of Manila,14.5995,120.9842,Philippines; Allied victory; Precision: day,#059669,1945-02-03,1945-03-03,,Pacific and Asia
+Yalta Conference,44.4678,34.1442,Ukraine; Allied leaders meet; Precision: day,#0ea5e9,1945-02-04,1945-02-11,,Diplomacy and Surrender
+Operation Veritable (Reichswald),51.7600,6.1000,Germany; Allied victory; Precision: day,#1d4ed8,1945-02-08,1945-03-11,,Western and Central Europe
+Bombing of Dresden,51.0504,13.7373,Germany; Allied victory; Precision: day,#1d4ed8,1945-02-13,1945-02-15,,Western and Central Europe
+Siege of Breslau,51.1079,17.0385,Poland; Soviet victory; Precision: day,#dc2626,1945-02-13,1945-05-06,,Eastern Front
+Recapture of Corregidor,14.3833,120.5667,Philippines; Allied victory; Precision: day,#059669,1945-02-16,1945-02-26,,Pacific and Asia
+Battle of Iwo Jima,24.7800,141.3200,Japan; Allied victory; Precision: day,#059669,1945-02-19,1945-03-26,,Pacific and Asia
+Bombing of Pforzheim,48.8922,8.6946,Germany; Allied bombing raid; Precision: day,#1d4ed8,1945-02-23,,,Western and Central Europe
+Operation Lumberjack,50.7374,7.0982,Germany; Allied victory; Precision: day,#1d4ed8,1945-03-01,1945-03-07,,Western and Central Europe
+Battle of Kolberg,54.1763,15.5758,Poland; Soviet victory; Precision: day,#dc2626,1945-03-04,1945-03-18,,Eastern Front
+Battle of Lake Balaton,46.8000,17.7000,Hungary; Soviet victory; Precision: day,#dc2626,1945-03-06,1945-03-15,,Eastern Front
+Remagen Bridge,50.5700,7.2300,Germany; Allied victory; Precision: day,#1d4ed8,1945-03-07,,,Western and Central Europe
+Capture of Lashio,22.9333,97.7500,Myanmar; Allied victory; Precision: day,#059669,1945-03-07,,,Pacific and Asia
+Tokyo firebombing,35.6762,139.6503,Japan; Allied bombing raid; Precision: day,#059669,1945-03-09,1945-03-10,,Pacific and Asia
+Zamboanga landing,6.9214,122.0790,Philippines; Allied victory; Precision: day,#059669,1945-03-10,,,Pacific and Asia
+Ostrava Offensive,49.8209,18.2625,Czechia; Soviet victory; Precision: day,#dc2626,1945-03-10,1945-05-05,,Eastern Front
+Bombing of Nagoya,35.1815,136.9066,Japan; Allied bombing raid; Precision: day,#059669,1945-03-11,1945-03-12,,Pacific and Asia
+Bombing of Osaka,34.6937,135.5023,Japan; Allied bombing raid; Precision: day,#059669,1945-03-13,1945-03-14,,Pacific and Asia
+Bombing of Wurzburg,49.7913,9.9534,Germany; Allied bombing raid; Precision: day,#1d4ed8,1945-03-16,,,Western and Central Europe
+Bombing of Kobe,34.6901,135.1955,Japan; Allied bombing raid; Precision: day,#059669,1945-03-16,1945-03-17,,Pacific and Asia
+Operation Plunder (Rhine crossing),51.6600,6.6170,Germany; Allied victory; Precision: day,#1d4ed8,1945-03-23,,,Western and Central Europe
+Kerama Islands landing,26.2000,127.3000,Japan; Allied victory; Precision: day,#059669,1945-03-26,,,Pacific and Asia
+Battle of Okinawa,26.2124,127.6809,Japan; Allied victory; Precision: day,#059669,1945-04-01,1945-06-22,,Pacific and Asia
+Ruhr Pocket,51.4500,7.0100,Germany; Allied victory; Precision: day,#1d4ed8,1945-04-01,1945-04-18,,Western and Central Europe
+Vienna Offensive,48.2082,16.3738,Austria; Soviet victory; Precision: day,#dc2626,1945-04-02,1945-04-13,,Eastern Front
+Battle of Heilbronn,49.1427,9.2109,Germany; Allied victory; Precision: day,#1d4ed8,1945-04-03,1945-04-12,,Western and Central Europe
+Battle of West Hunan,27.4400,109.6800,China; Chinese victory; Precision: day,#059669,1945-04-06,1945-06-07,,Pacific and Asia
+Liberation of Sarajevo,43.8563,18.4131,Bosnia and Herzegovina; Partisan victory; Precision: day,#475569,1945-04-06,,,"Occupation, Holocaust and Resistance"
+Operation Ten-Go (sinking of Yamato),30.4000,128.1000,At sea (East China Sea); Allied victory; Precision: day,#059669,1945-04-07,,,Pacific and Asia
+Buchenwald liberated,51.0211,11.2492,Germany; Camp liberated by US troops; Precision: day,#475569,1945-04-11,,,"Occupation, Holocaust and Resistance"
+Battle of the Argenta Gap,44.6122,11.8310,Italy; Allied victory; Precision: day,#d97706,1945-04-12,1945-04-19,,Mediterranean and Africa
+Bergen-Belsen liberated,52.7586,9.9070,Germany; Camp liberated by British troops; Precision: day,#475569,1945-04-15,,,"Occupation, Holocaust and Resistance"
+Seelow Heights,52.5167,14.3833,Germany; Soviet victory; Precision: day,#dc2626,1945-04-16,1945-04-19,,Eastern Front
+Battle of Berlin,52.5200,13.4050,Germany; Soviet victory; Precision: day,#dc2626,1945-04-16,1945-05-02,,Eastern Front
+Battle of Nuremberg,49.4521,11.0767,Germany; Allied victory; Precision: day,#1d4ed8,1945-04-16,1945-04-20,,Western and Central Europe
+Battle of Ie Shima,26.7167,127.7833,Japan; Allied victory; Precision: day,#059669,1945-04-16,1945-04-21,,Pacific and Asia
+Battle of Leipzig,51.3397,12.3731,Germany; Allied victory; Precision: day,#1d4ed8,1945-04-18,,,Western and Central Europe
+Battle of Bologna,44.4949,11.3426,Italy; Allied victory; Precision: day,#d97706,1945-04-21,,,Mediterranean and Africa
+Sachsenhausen liberated,52.7656,13.2619,Germany; Camp liberated by Soviet and Polish troops; Precision: day,#475569,1945-04-22,,,"Occupation, Holocaust and Resistance"
+Battle of Halbe,52.1000,13.7000,Germany; Soviet victory; Precision: day,#dc2626,1945-04-24,1945-05-01,,Eastern Front
+Elbe Day (Torgau link-up),51.5604,13.0045,Germany; Allied forces link up; Precision: day,#1d4ed8,1945-04-25,,,Western and Central Europe
+Liberation of Milan,45.4642,9.1900,Italy; Partisan insurrection; Precision: day,#475569,1945-04-25,,,"Occupation, Holocaust and Resistance"
+Liberation of Genoa,44.4056,8.9463,Italy; Partisan insurrection; Precision: day,#475569,1945-04-25,1945-04-27,,"Occupation, Holocaust and Resistance"
+Liberation of Verona,45.4384,10.9916,Italy; Allied victory; Precision: day,#d97706,1945-04-26,,,Mediterranean and Africa
+Battle for the Reichstag,52.5186,13.3762,Germany; Soviet victory; Precision: day,#dc2626,1945-04-28,1945-05-02,,Eastern Front
+Dachau liberated,48.2700,11.4683,Germany; Camp liberated by US troops; Precision: day,#475569,1945-04-29,,,"Occupation, Holocaust and Resistance"
+Surrender of German forces in Italy (Caserta),41.0733,14.3258,Italy; Surrender signed; Precision: day,#0ea5e9,1945-04-29,,,Diplomacy and Surrender
+Ravensbruck liberated,53.1840,13.1500,Germany; Camp liberated by Soviet troops; Precision: day,#475569,1945-04-30,,,"Occupation, Holocaust and Resistance"
+Fall of Munich,48.1351,11.5820,Germany; Allied victory; Precision: day,#1d4ed8,1945-04-30,,,Western and Central Europe
+Tarakan,3.3000,117.6333,Indonesia; Allied victory; Precision: day,#059669,1945-05-01,,,Pacific and Asia
+Surrender of Hamburg,53.5511,9.9937,Germany; Allied victory; Precision: day,#1d4ed8,1945-05-03,,,Western and Central Europe
+Recapture of Rangoon,16.8409,96.1735,Myanmar; Allied victory; Precision: day,#059669,1945-05-03,,,Pacific and Asia
+Mauthausen liberated,48.2564,14.5011,Austria; Camp liberated by US troops; Precision: day,#475569,1945-05-05,,,"Occupation, Holocaust and Resistance"
+Prague Uprising,50.0755,14.4378,Czechia; Uprising against German occupation; Precision: day,#475569,1945-05-05,1945-05-08,,"Occupation, Holocaust and Resistance"
+Prague Offensive,50.0755,14.4378,Czechia; Soviet victory; Precision: day,#dc2626,1945-05-06,1945-05-11,,Eastern Front
+German surrender at Reims,49.2583,4.0317,France; Surrender signed; Precision: day,#0ea5e9,1945-05-07,,,Diplomacy and Surrender
+German surrender at Berlin-Karlshorst,52.4850,13.5300,Germany; Surrender signed; Precision: day,#0ea5e9,1945-05-08,,,Diplomacy and Surrender
+Liberation of Zagreb,45.8150,15.9819,Croatia; Partisan victory; Precision: day,#475569,1945-05-08,,,"Occupation, Holocaust and Resistance"
+Liberation of the Channel Islands,49.1900,-2.1000,United Kingdom; Allied victory; Precision: day,#1d4ed8,1945-05-09,,,Western and Central Europe
+Bombing of Yokohama,35.4437,139.6380,Japan; Allied bombing raid; Precision: day,#059669,1945-05-29,,,Pacific and Asia
+Battle of Labuan,5.2831,115.2308,Malaysia; Allied victory; Precision: day,#059669,1945-06-10,,,Pacific and Asia
+Balikpapan,-1.2379,116.8529,Indonesia; Allied victory; Precision: day,#059669,1945-07-01,,,Pacific and Asia
+Potsdam Conference,52.4189,13.0703,Germany; Allied leaders meet; Precision: day,#0ea5e9,1945-07-17,1945-08-02,,Diplomacy and Surrender
+Sinking of USS Indianapolis,12.0333,134.8000,At sea (Philippine Sea); Japanese victory; Precision: day,#059669,1945-07-30,,,Pacific and Asia
+Soviet invasion of Manchuria,43.8800,125.3235,China; Soviet victory; Precision: day,#059669,1945-08-09,1945-08-20,,Pacific and Asia
+Soviet invasion of South Sakhalin,46.9591,142.7380,Russia; Soviet victory; Precision: day,#059669,1945-08-11,1945-08-25,,Pacific and Asia
+Hirohito surrender broadcast,35.6850,139.7528,Japan; Surrender announced; Precision: day,#0ea5e9,1945-08-15,,,Diplomacy and Surrender
+Battle of Shumshu,50.7500,156.3500,Russia; Soviet victory; Precision: day,#059669,1945-08-18,1945-08-23,,Pacific and Asia
+Japanese surrender on USS Missouri,35.3333,139.7667,At sea (Tokyo Bay); Surrender signed; Precision: day,#0ea5e9,1945-09-02,,,Diplomacy and Surrender
