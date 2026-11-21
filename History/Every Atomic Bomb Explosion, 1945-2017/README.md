@@ -1,13 +1,15 @@
-# Atomic Bomb Tests Every Nuclear Test Explosion, 1945-2017
+Between **1945 and 2017**, more than two thousand nuclear devices were exploded on the Earth's surface, under its seas and deep inside its rocks. This map shows where, from the first test in the New Mexico desert and the two bombings of Japan to the most recent test in North Korea.
 
-Between **1945 and 2017**, nine decades of nuclear testing left more than two thousand explosions on the Earth's surface, under its seas and deep inside its rocks. This map shows where they happened, from the first test in the New Mexico desert to the most recent one in North Korea.
+Click a marker to see the explosion, its date and the country that carried it out.
 
-Click a marker to see the test, its date and the country that carried it out.
+![The Trinity test fireball 16 milliseconds after detonation](https://upload.wikimedia.org/wikipedia/commons/7/78/Trinity_Test_Fireball_16ms.jpg)
+
+*Trinity, the first nuclear test: the fireball 16 milliseconds after detonation, 16 July 1945, New Mexico.*
 
 ## The story in short
 
 - **16 July 1945:** the United States fires the first nuclear device, *Trinity*, in New Mexico.
-- **6 and 9 August 1945:** the bombs dropped on **Hiroshima** and **Nagasaki** are the only nuclear weapons ever used in war.
+- **6 and 9 August 1945:** the United States drops atomic bombs on **Hiroshima** and **Nagasaki** in Japan, the only nuclear weapons ever used in war.
 - **1949 to 1964:** the Soviet Union (1949), the United Kingdom (1952), France (1960) and China (1964) join the list.
 - **1 March 1954:** the *Castle Bravo* test at Bikini Atoll, the largest US test, spreads fallout far beyond its planned zone.
 - **30 October 1961:** the Soviet *Tsar Bomba* over Novaya Zemlya, the most powerful device ever exploded, at about 50 megatons.
@@ -30,7 +32,7 @@ Click a marker to see the test, its date and the country that carried it out.
 | India | 3 | 1974 | 1998 |
 | Pakistan | 2 | 1998 | 1998 |
 
-About **2,056 tests** in total. The US figure counts joint US-UK tests once, and it does not include Hiroshima and Nagasaki. Counts differ a little between sources depending on how a test is defined.
+About **2,056 tests** in total. The table does not include the bombings of Hiroshima and Nagasaki, which are on the map but were not tests. The US figure counts joint US-UK tests once. Counts differ a little between sources depending on how a test is defined.
 
 ## Good to know
 
