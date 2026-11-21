@@ -2,7 +2,7 @@ This map follows the Napoleonic Wars across Europe, from the cannonade at Valmy 
 
 Each color marks one phase of the conflict. The first four layers follow the Coalition wars in order, from the First Coalition in blue through the Third and Fourth Coalitions in teal and green. The Peninsular War in Spain, Portugal and southern France has its own layer, as do the Fifth Coalition of 1809, the Russian Campaign of 1812, the Sixth Coalition of 1813 and 1814, and the Hundred Days of 1815. Layers overlap in time, so you can filter them to follow one theatre of war at a time.
 
-![Battle of Austerlitz](https://upload.wikimedia.org/wikipedia/commons/b/ba/La_bataille_d%27Austerlitz._2_decembre_1805_(Fran%C3%A7ois_G%C3%A9rard).jpg)
+![Battle of Austerlitz](https://upload.wikimedia.org/wikipedia/commons/b/ba/La_bataille_d%27Austerlitz._2_decembre_1805_%28Fran%C3%A7ois_G%C3%A9rard%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *The Battle of Austerlitz, 2 December 1805, painted by François Gérard in 1810.*
 
 Click any marker to see the name of the event, the modern country it lies in, a short line of context such as who won, and how precisely the date is known. Battles with a start and end date, such as Leipzig or Eylau, show the full span.
