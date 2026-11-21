@@ -1,0 +1,11 @@
+Watch the end of the colonial empires unfold on the map. Each point marks a country at the moment it became independent, from Indonesia, Vietnam and the two Koreas in 1945 to South Sudan in 2011. Press play and the map fills in as the years pass, with dozens of new states appearing in the 1960 "Year of Africa" and the Soviet republics in 1990-91.
+
+Colors show who ruled the territory before. British territories are red, French blue, Portuguese green, Belgian yellow, Dutch orange, Spanish purple, Italian teal, Japanese pink and Soviet dark red. A few other former powers (USA, Australia, New Zealand, South Africa and others) have their own colors. You can use the layers to look at one empire at a time and see how it unraveled.
+
+![Sukarno reading the Indonesian proclamation of independence](https://upload.wikimedia.org/wikipedia/commons/f/f1/Indonesia_declaration_of_independence_17_August_1945.jpg)
+
+*Indonesia declares independence in Jakarta, 17 August 1945.*
+
+Click any point to see the country, its former ruler, its capital and what happened that day, such as a declaration, a treaty or the end of a mandate. Each point sits on the capital city.
+
+Some dates are debated (for example, Indonesia declared independence in 1945 but was recognized in 1949), so the date shown is the one the country commonly celebrates.

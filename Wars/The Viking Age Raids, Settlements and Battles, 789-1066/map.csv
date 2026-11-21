@@ -1,0 +1,78 @@
+name,lat,lng,note,color,start,end,icon,layer
+Portland landing,50.5500,-2.4400,"England; First recorded Viking landing in Britain, dated 789 in some Chronicle copies (787 in others); Precision: year",#fcd34d,0789-01-01,,,789-850 First raids
+Lindisfarne raid,55.6694,-1.8003,England; Raid on the island monastery of Lindisfarne; Precision: day,#fcd34d,0793-06-08,,,789-850 First raids
+Jarrow raid,54.9810,-1.4850,England; Raid on the Wearmouth-Jarrow monastery; Precision: year,#fcd34d,0794-01-01,,,789-850 First raids
+Iona raid,56.3317,-6.3910,Scotland; First of several raids on the island monastery; Precision: year,#fcd34d,0795-01-01,,,789-850 First raids
+Rathlin raid,55.2833,-6.2000,"Northern Ireland (UK); Irish annals record a raid on Rechru, usually identified as Rathlin; Precision: year",#fcd34d,0795-01-01,,,789-850 First raids
+Noirmoutier raid,47.0000,-2.2500,France; Raid on the island monastery on the Atlantic coast; Precision: year,#fcd34d,0799-01-01,,,789-850 First raids
+Kaupang trading town,59.0400,10.1200,"Norway; Early Viking trading place; founded around 800, coordinates approximate; Precision: year",#fcd34d,0800-01-01,,,789-850 First raids
+Hedeby founded,54.4914,9.5661,Germany; King Godfred moves merchants to the trading town traditionally identified with Hedeby; Precision: year,#fcd34d,0808-01-01,,,789-850 First raids
+Skellig Michael raid,51.7706,-10.5400,Ireland; Raid on the island monastery; the abbot was carried off; Precision: year,#fcd34d,0824-01-01,,,789-850 First raids
+Bangor raid,54.6600,-5.6700,Northern Ireland (UK); Raid on the monastery of Bangor; Precision: year,#fcd34d,0824-01-01,,,789-850 First raids
+Birka and Ansgar's mission,59.3366,17.5442,"Sweden; Ansgar visits the Swedish trading town of Birka, about 829 to 830; Precision: year",#fcd34d,0829-01-01,,,789-850 First raids
+Armagh raid,54.3503,-6.6528,Northern Ireland (UK); Armagh raided repeatedly in the 830s; Precision: year,#fcd34d,0832-01-01,,,789-850 First raids
+Dorestad raid,51.9750,5.3400,"Netherlands; First of yearly raids on the Frankish trading town, 834 to 837; Precision: year",#fcd34d,0834-01-01,,,789-850 First raids
+Isle of Sheppey raid,51.4300,0.8000,England; Raid on the Thames estuary island; Precision: year,#fcd34d,0835-01-01,,,789-850 First raids
+Battle of Carhampton,51.1800,-3.4500,England; Danes defeat King Egbert of Wessex; Precision: year,#fcd34d,0836-01-01,,,789-850 First raids
+Battle of Hingston Down,50.5167,-4.2500,England; Egbert of Wessex defeats Cornish and Danish allies; location approximate; Precision: year,#fcd34d,0838-01-01,,,789-850 First raids
+Dublin longphort,53.3440,-6.2700,Ireland; Viking ship-fort established; origin of Dublin; Precision: year,#fcd34d,0841-01-01,,,789-850 First raids
+Rouen sacked,49.4432,1.0993,France; Vikings sail up the Seine and sack Rouen; Precision: month,#fcd34d,0841-05-01,,,789-850 First raids
+Nantes massacre,47.2184,-1.5536,"France; Attack on the city during the feast of St John, with a massacre in the cathedral; Precision: day",#fcd34d,0843-06-24,,,789-850 First raids
+Lisbon raid,38.7139,-9.1334,Portugal; Viking fleet raids Lisbon on its Iberian expedition; Precision: month,#fcd34d,0844-08-01,,,789-850 First raids
+Seville raid,37.3891,-5.9845,Spain; Fleet occupies Seville for days before the emir's army drives it off; Precision: month,#fcd34d,0844-09-01,,,789-850 First raids
+Hamburg sacked,53.5511,9.9937,Germany; Danish fleet sacks Hamburg; Precision: year,#fcd34d,0845-01-01,,,789-850 First raids
+Clonmacnoise raid,53.3264,-7.9861,Ireland; Raid on the monastery on the River Shannon; Precision: year,#fcd34d,0845-01-01,,,789-850 First raids
+Paris raid by Ragnar,48.8566,2.3522,France; Viking fleet reaches Paris around Easter and is paid off with silver; Precision: month,#fcd34d,0845-03-01,,,789-850 First raids
+Bordeaux captured,44.8378,-0.5792,France; Viking force takes Bordeaux; Precision: year,#fcd34d,0848-01-01,,,789-850 First raids
+Thanet winter camp,51.3700,1.3500,"England; First recorded Viking overwintering in England, on the Isle of Thanet; location approximate; Precision: year",#fcd34d,0850-01-01,,,789-850 First raids
+London and Canterbury stormed,51.5074,-0.1278,England; Large Viking fleet storms London and Canterbury; Precision: year,#fb923c,0851-01-01,,,851-900 Great Army
+Luni raid,44.0605,10.0278,Italy; Raid in the Mediterranean on the Ligurian coast; Precision: year,#fb923c,0860-01-01,,,851-900 Great Army
+Rus attack on Constantinople,41.0082,28.9784,Turkey; Rus fleet raids the Byzantine capital; Precision: month,#fb923c,0860-06-01,,,851-900 Great Army
+Rurik at Ladoga,60.0033,32.2972,Russia; Traditional date for the Varangian Rurik's arrival in the Rus lands (Primary Chronicle); Precision: year,#fb923c,0862-01-01,,,851-900 Great Army
+Great Heathen Army lands,52.6000,1.0000,England; Large Danish army lands in East Anglia; coordinates are for the region only; Precision: year,#fb923c,0865-01-01,,,851-900 Great Army
+York captured,53.9600,-1.0873,England; Great Army takes York on All Saints' Day; Precision: day,#fb923c,0866-11-01,,,851-900 Great Army
+Battle of York,53.9600,-1.0873,England; Northumbrians counterattack and are crushed by the Great Army; Precision: day,#fb923c,0867-03-21,,,851-900 Great Army
+Nottingham winter camp,52.9548,-1.1581,England; Great Army winters in Nottingham; Precision: year,#fb923c,0868-01-01,,,851-900 Great Army
+Death of King Edmund,52.3500,1.1833,"England; East Anglian king killed by the Great Army; traditional site Hoxne, uncertain; Precision: year",#fb923c,0869-01-01,,,851-900 Great Army
+Siege of Dumbarton Rock,55.9425,-4.5700,Scotland; Dublin Vikings besiege the Britons' stronghold of Alt Clut; Precision: year,#fb923c,0870-01-01,,,851-900 Great Army
+Battle of Reading,51.4543,-0.9781,England; Danes defeat a West Saxon attack on their camp; Precision: month,#fb923c,0871-01-01,,,851-900 Great Army
+Repton winter camp,52.8400,-1.5300,England; Great Army winters at Repton and drives out the king of Mercia; Precision: year,#fb923c,0873-01-01,,,851-900 Great Army
+Settlement of Iceland begins,64.1466,-21.9426,Iceland; Traditional date for Ingolfr Arnarson's settlement at Reykjavik (Landnamabok); Precision: year,#fb923c,0874-01-01,,,851-900 Great Army
+Danes at Wareham,50.6860,-2.1100,England; Danish army seizes Wareham; Precision: year,#fb923c,0876-01-01,,,851-900 Great Army
+Danes winter at Exeter,50.7184,-3.5339,"England; Danish army winters at Exeter, 876 to 877; Precision: year",#fb923c,0877-01-01,,,851-900 Great Army
+Surprise at Chippenham,51.4586,-2.1146,England; Guthrum attacks King Alfred around Twelfth Night; Precision: month,#fb923c,0878-01-01,,,851-900 Great Army
+Battle of Edington,51.2750,-2.1000,England; Alfred defeats Guthrum; Edington is the usual identification of Ethandun; Precision: month,#fb923c,0878-05-01,,,851-900 Great Army
+Oleg takes Kyiv,50.4501,30.5234,Ukraine; Traditional date from the Primary Chronicle; the year is uncertain; Precision: year,#fb923c,0882-01-01,,,851-900 Great Army
+Siege of Paris,48.8566,2.3522,France; Large Viking fleet besieges Paris; it begins in late November 885; Precision: day,#fb923c,0885-11-24,,,851-900 Great Army
+London retaken by Alfred,51.5074,-0.1278,England; Alfred secures London from the Danes; Precision: year,#fb923c,0886-01-01,,,851-900 Great Army
+Battle of the Dyle,50.8798,4.7005,Belgium; East Frankish king Arnulf defeats a Viking army near Leuven; Precision: day,#fb923c,0891-09-01,,,851-900 Great Army
+Battle of Tettenhall,52.6000,-2.1700,England; Wessex and Mercia defeat a Northumbrian Danish army; Precision: day,#ef4444,0910-08-05,,,901-950 Settlement
+Treaty of Saint-Clair-sur-Epte,49.1833,1.6667,"France; Traditional grant of land around Rouen to Rollo, origin of Normandy; terms uncertain; Precision: year",#ef4444,0911-01-01,,,901-950 Settlement
+Battle of Chartres,48.4469,1.4891,France; Rollo's Vikings are defeated outside Chartres; Precision: day,#ef4444,0911-07-20,,,901-950 Settlement
+Waterford founded,52.2593,-7.1101,Ireland; Viking base established at Waterford; Precision: year,#ef4444,0914-01-01,,,901-950 Settlement
+Battle of Corbridge,54.9667,-2.0167,England; Ragnall's Norse and the Scots and English fight at Corbridge; Precision: year,#ef4444,0918-01-01,,,901-950 Settlement
+Athelstan takes York,53.9600,-1.0873,England; Athelstan expels the Norse king of York; Precision: year,#ef4444,0927-01-01,,,901-950 Settlement
+Althing founded,64.2559,-21.1299,Iceland; Traditional founding of Iceland's national assembly at Thingvellir; Precision: year,#ef4444,0930-01-01,,,901-950 Settlement
+Battle of Brunanburh,53.3200,-2.9800,"England; Athelstan defeats Norse, Scottish and Strathclyde allies; location debated, Bromborough is one candidate; Precision: year",#ef4444,0937-01-01,,,901-950 Settlement
+Rus fleet defeated at the Bosporus,41.1800,29.0800,Turkey; Byzantines destroy Prince Igor's fleet with Greek fire; Precision: month,#ef4444,0941-06-01,,,901-950 Settlement
+Rus raid on Barda,40.3733,47.1264,Azerbaijan; Rus raiders capture Barda in the Caucasus; Precision: year,#ef4444,0943-01-01,,,901-950 Settlement
+Eric Bloodaxe expelled,53.9600,-1.0873,"England; End of the Viking kingdom of York, traditionally dated 954; Precision: year",#b91c1c,0954-01-01,,,951-1000 Atlantic and Rus
+Siege of Dorostolon,44.1167,27.2667,"Bulgaria; Svyatoslav's Rus besieged by the Byzantines at Silistra, spring to summer 971; Precision: month",#b91c1c,0971-04-01,,,951-1000 Atlantic and Rus
+Eastern Settlement of Greenland,61.1500,-45.5200,Greenland (Denmark); Erik the Red founds a settlement; traditional date from the sagas; Precision: year,#b91c1c,0985-01-01,,,951-1000 Atlantic and Rus
+Siege of Chersonesos,44.6111,33.4902,"Ukraine (Crimea); Prince Vladimir takes the city, followed by his baptism; Precision: year",#b91c1c,0988-01-01,,,951-1000 Atlantic and Rus
+Varangian Guard formed,41.0082,28.9784,Turkey; Rus warriors sent to Emperor Basil II become the Varangian Guard; Precision: year,#b91c1c,0988-01-01,,,951-1000 Atlantic and Rus
+Battle of Maldon,51.7300,0.7100,England; English defeat by a Viking army near Northey Island; the day is traditionally 10 or 11 August; Precision: month,#b91c1c,0991-08-01,,,951-1000 Atlantic and Rus
+Siege of London,51.5074,-0.1278,England; Olaf Tryggvason and Svein Forkbeard attack London; Precision: month,#b91c1c,0994-09-01,,,951-1000 Atlantic and Rus
+Iceland adopts Christianity,64.2559,-21.1299,Iceland; Decision taken at the Althing in the year 1000; Precision: year,#b91c1c,1000-01-01,,,951-1000 Atlantic and Rus
+St Brice's Day massacre,51.7520,-1.2577,England; King Ethelred orders the killing of Danes in England; Oxford is the best-known case; Precision: day,#7f1d1d,1002-11-13,,,1001-1066 Kings and the end
+Siege of Canterbury,51.2802,1.0789,England; Danes besiege and take Canterbury and capture the archbishop; Precision: month,#7f1d1d,1011-09-01,,,1001-1066 Kings and the end
+Death of Archbishop Aelfheah,51.4826,0.0077,England; Archbishop killed by his Danish captors at Greenwich; Precision: day,#7f1d1d,1012-04-19,,,1001-1066 Kings and the end
+Svein Forkbeard at Gainsborough,53.4000,-0.7667,England; Northern England submits to Svein during his conquest; Precision: year,#7f1d1d,1013-01-01,,,1001-1066 Kings and the end
+Battle of Clontarf,53.3631,-6.2000,Ireland; Brian Boru defeats Leinster and the Dublin Norse; he dies in the battle; Precision: day,#7f1d1d,1014-04-23,,,1001-1066 Kings and the end
+Battle of Assandun,51.6140,0.7060,"England; Cnut defeats Edmund Ironside; site debated, Ashingdon is the usual choice, coordinates approximate; Precision: day",#7f1d1d,1016-10-18,,,1001-1066 Kings and the end
+L'Anse aux Meadows,51.5958,-55.5330,Canada; Norse camp in Newfoundland dated by tree rings to 1021; the sagas place Vinland voyages around 1000; Precision: year,#7f1d1d,1021-01-01,,,1001-1066 Kings and the end
+Battle of Stiklestad,63.7970,11.4670,Norway; King Olaf Haraldsson killed in battle against Norwegian chieftains; Precision: day,#7f1d1d,1030-07-29,,,1001-1066 Kings and the end
+Harald Hardrada lands at Riccall,53.8111,-1.0000,England; Norwegian invasion fleet lands on the Ouse; Precision: month,#7f1d1d,1066-09-01,,,1001-1066 Kings and the end
+Battle of Fulford,53.9340,-1.0740,England; Hardrada defeats the northern earls near York; Precision: day,#7f1d1d,1066-09-20,,,1001-1066 Kings and the end
+Battle of Stamford Bridge,53.9910,-0.9090,England; Harold Godwinson defeats and kills Harald Hardrada; Precision: day,#7f1d1d,1066-09-25,,,1001-1066 Kings and the end
+Battle of Hastings,50.9158,0.4880,"England; Norman victory, led by a Viking descendant; traditional end of the Viking Age; Precision: day",#7f1d1d,1066-10-14,,,1001-1066 Kings and the end

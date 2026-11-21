@@ -1,0 +1,187 @@
+name,lat,lng,note,color,start,end,icon,layer
+Battle of Valmy,49.0833,4.7667,France; French artillery stops the Prussian advance on Paris; Precision: day,#1e3a8a,1792-09-20,,,First Coalition 1792-1797
+Battle of Jemappes,50.4467,3.8847,Belgium; French victory opens the Austrian Netherlands; Precision: day,#1e3a8a,1792-11-06,,,First Coalition 1792-1797
+Battle of Neerwinden,50.7750,5.0700,Belgium; Austrian victory forces the French out of the Netherlands; Precision: day,#1e3a8a,1793-03-18,,,First Coalition 1792-1797
+Siege of Mainz,49.9929,8.2473,Germany; Prussian and Austrian forces retake the city; French garrison surrenders; Precision: day,#1e3a8a,1793-04-14,1793-07-23,,First Coalition 1792-1797
+Battle of Hondschoote,50.9770,2.5870,France; French victory relieves Dunkirk; Precision: day,#1e3a8a,1793-09-06,1793-09-08,,First Coalition 1792-1797
+Siege of Toulon,43.1242,5.9280,France; French retake the port from Anglo-Spanish forces; Napoleon Bonaparte's artillery gains notice; Precision: day,#1e3a8a,1793-09-18,1793-12-19,,First Coalition 1792-1797
+Battle of Tourcoing,50.7236,3.1608,France; French victory over Allied columns; Precision: day,#1e3a8a,1794-05-18,,,First Coalition 1792-1797
+Glorious First of June,47.8000,-18.5000,"At sea, Atlantic; location approximate; British fleet defeats French fleet; French grain convoy still reaches port; Precision: day",#1e3a8a,1794-06-01,,,First Coalition 1792-1797
+Battle of Fleurus,50.4833,4.5500,Belgium; French victory ends Allied control of the Austrian Netherlands; Precision: day,#1e3a8a,1794-06-26,,,First Coalition 1792-1797
+Battle of Loano,44.1286,8.2562,Italy; French victory on the Ligurian coast; Precision: day,#1e3a8a,1795-11-23,,,First Coalition 1792-1797
+Battle of Montenotte,44.3939,8.2656,Italy; Bonaparte's first victory as commander in Italy; Precision: day,#1e3a8a,1796-04-12,,,First Coalition 1792-1797
+Battle of Millesimo,44.3631,8.2056,Italy; French cut off Piedmontese and Austrian forces; Precision: day,#1e3a8a,1796-04-13,,,First Coalition 1792-1797
+Battle of Mondovì,44.3833,7.8167,Italy; French victory forces Piedmont to seek an armistice; Precision: day,#1e3a8a,1796-04-21,,,First Coalition 1792-1797
+Battle of Lodi,45.3143,9.5030,Italy; French storm the bridge over the Adda; Precision: day,#1e3a8a,1796-05-10,,,First Coalition 1792-1797
+Siege of Mantua,45.1564,10.7914,Italy; Long siege ends with Austrian surrender; Precision: day,#1e3a8a,1796-07-04,1797-02-02,,First Coalition 1792-1797
+Battle of Lonato,45.4614,10.4836,Italy; French victory against Austrian columns near Lake Garda; Precision: day,#1e3a8a,1796-08-03,,,First Coalition 1792-1797
+Battle of Castiglione,45.3881,10.4856,Italy; French victory forces Austria to withdraw from Italy temporarily; Precision: day,#1e3a8a,1796-08-05,,,First Coalition 1792-1797
+Battle of Amberg,49.4442,11.8620,Germany; Austrian victory under Archduke Charles over Jourdan; Precision: day,#1e3a8a,1796-08-24,,,First Coalition 1792-1797
+Battle of Würzburg,49.7913,9.9534,Germany; Austrian victory forces French retreat to the Rhine; Precision: day,#1e3a8a,1796-09-03,,,First Coalition 1792-1797
+Battle of Rovereto,45.8906,11.0403,Italy; French victory in the Adige valley; Precision: day,#1e3a8a,1796-09-04,,,First Coalition 1792-1797
+Battle of Bassano,45.7667,11.7333,Italy; French victory over Wurmser's Austrians; Precision: day,#1e3a8a,1796-09-08,,,First Coalition 1792-1797
+Battle of Emmendingen,48.1214,7.8519,Germany; Austrian victory over Moreau's army; Precision: day,#1e3a8a,1796-10-19,,,First Coalition 1792-1797
+Battle of Caldiero (1796),45.4000,11.1833,Italy; Austrian victory over Bonaparte; Precision: day,#1e3a8a,1796-11-12,,,First Coalition 1792-1797
+Battle of Arcole,45.3500,11.2800,Italy; French victory after fighting over the causeway and bridge; Precision: day,#1e3a8a,1796-11-15,1796-11-17,,First Coalition 1792-1797
+Battle of Rivoli,45.5700,10.8000,Italy; French victory ends Austrian relief attempts for Mantua; Precision: day,#1e3a8a,1797-01-14,,,First Coalition 1792-1797
+Battle of Neuwied,50.4297,7.4600,Germany; French victory under Hoche crosses the Rhine; Precision: day,#1e3a8a,1797-04-18,,,First Coalition 1792-1797
+Treaty of Campo Formio,45.9833,13.0500,Italy; Treaty between France and Austria ends the War of the First Coalition; Precision: day,#1e3a8a,1797-10-17,,,First Coalition 1792-1797
+Surrender of Malta to Napoleon,35.8989,14.5146,Malta; Knights of St John capitulate to the French; Precision: day,#2563eb,1798-06-12,,,Second Coalition 1798-1802
+Capture of Alexandria,31.2001,29.9187,Egypt; French land and take the city; Precision: day,#2563eb,1798-07-02,,,Second Coalition 1798-1802
+Battle of the Pyramids,30.0500,31.1900,Egypt; French defeat the Mamluks near Cairo; Precision: day,#2563eb,1798-07-21,,,Second Coalition 1798-1802
+Battle of the Nile,31.3000,30.1000,Egypt; location approximate (Aboukir Bay); Nelson's British fleet destroys most of the French fleet; Precision: day,#2563eb,1798-08-01,1798-08-03,,Second Coalition 1798-1802
+Siege of Acre,32.9234,35.0820,Israel; French siege fails against Ottoman defenders supported by the Royal Navy; Precision: day,#2563eb,1799-03-20,1799-05-21,,Second Coalition 1798-1802
+Battle of Stockach,47.8500,9.0167,Germany; Austrian victory over Jourdan; Precision: day,#2563eb,1799-03-25,,,Second Coalition 1798-1802
+Battle of Mount Tabor,32.6867,35.3900,Israel; French relief force beats a larger Ottoman army; Precision: day,#2563eb,1799-04-16,,,Second Coalition 1798-1802
+Battle of Cassano,45.5333,9.5167,Italy; Russo-Austrian victory under Suvorov; Precision: day,#2563eb,1799-04-27,,,Second Coalition 1798-1802
+Battle of the Trebbia,45.0200,9.6500,Italy; Suvorov defeats Macdonald; Precision: day,#2563eb,1799-06-17,1799-06-19,,Second Coalition 1798-1802
+Battle of Aboukir (land),31.3167,30.0667,Egypt; Napoleon defeats an Ottoman landing; Precision: day,#2563eb,1799-07-25,,,Second Coalition 1798-1802
+Battle of Novi,44.7619,8.7889,Italy; Russo-Austrian victory; French general Joubert is killed; Precision: day,#2563eb,1799-08-15,,,Second Coalition 1798-1802
+Battle of Bergen (1799),52.6667,4.7000,Netherlands; Franco-Batavian victory over the Anglo-Russian landing; Precision: day,#2563eb,1799-09-19,,,Second Coalition 1798-1802
+Second Battle of Zürich,47.3769,8.5417,Switzerland; French victory under Masséna defeats the Russians; Precision: day,#2563eb,1799-09-25,1799-09-26,,Second Coalition 1798-1802
+Battle of Alkmaar,52.6324,4.7534,Netherlands; Franco-Batavian forces repulse the Anglo-Russian army; Precision: day,#2563eb,1799-10-02,,,Second Coalition 1798-1802
+Battle of Castricum,52.5500,4.6667,Netherlands; Franco-Batavian victory forces Anglo-Russian evacuation; Precision: day,#2563eb,1799-10-06,,,Second Coalition 1798-1802
+Siege of Genoa (1800),44.4056,8.9463,Italy; Masséna holds the city until starvation forces surrender; Precision: day,#2563eb,1800-04-06,1800-06-04,,Second Coalition 1798-1802
+Battle of Engen,47.8548,8.7681,Germany; French victory over Kray; Precision: day,#2563eb,1800-05-03,,,Second Coalition 1798-1802
+Battle of Meßkirch,47.9906,9.1136,Germany; French victory over Kray's Austrians; Precision: day,#2563eb,1800-05-05,,,Second Coalition 1798-1802
+Battle of Biberach,48.0958,9.7903,Germany; French victory over Kray's Austrians; Precision: day,#2563eb,1800-05-09,,,Second Coalition 1798-1802
+Battle of Marengo,44.8800,8.6750,Italy; French victory after a late counterattack by Desaix; Precision: day,#2563eb,1800-06-14,,,Second Coalition 1798-1802
+Battle of Hohenlinden,48.1750,11.9600,Germany; Moreau's decisive victory over the Austrians; Precision: day,#2563eb,1800-12-03,,,Second Coalition 1798-1802
+Treaty of Lunéville,48.5883,6.4986,France; Peace treaty between France and Austria; Precision: day,#2563eb,1801-02-09,,,Second Coalition 1798-1802
+Battle of Copenhagen (1801),55.6833,12.6000,Denmark; location approximate; Nelson's fleet attacks the Danish fleet at anchor; Precision: day,#2563eb,1801-04-02,,,Second Coalition 1798-1802
+Battle of Algeciras,36.1333,-5.4500,Spain; French and Spanish ships defeat a British squadron; Precision: day,#2563eb,1801-07-06,,,Second Coalition 1798-1802
+Treaty of Amiens,49.8941,2.2958,France; Short peace between Britain and France; Precision: day,#2563eb,1802-03-25,,,Second Coalition 1798-1802
+Coronation of Napoleon,48.8530,2.3499,France; Napoleon crowned Emperor at Notre-Dame; Precision: day,#0891b2,1804-12-02,,,Third Coalition 1803-1805
+Battle of Wertingen,48.5667,10.6833,Germany; French cavalry defeat an Austrian detachment at the start of the Ulm campaign; Precision: day,#0891b2,1805-10-08,,,Third Coalition 1803-1805
+Battle of Günzburg,48.4528,10.2736,Germany; French seize the Danube crossing; Precision: day,#0891b2,1805-10-09,,,Third Coalition 1803-1805
+Battle of Elchingen,48.4960,10.0640,Germany; French storm the Danube bridge and close the net around Ulm; Precision: day,#0891b2,1805-10-14,,,Third Coalition 1803-1805
+Capitulation of Ulm,48.4010,9.9876,Germany; Austrian General Mack surrenders his army; Precision: day,#0891b2,1805-10-20,,,Third Coalition 1803-1805
+Battle of Trafalgar,36.2833,-6.2500,At sea off Spain; location approximate; Nelson's fleet destroys the combined French and Spanish fleet; Precision: day,#0891b2,1805-10-21,,,Third Coalition 1803-1805
+Battle of Caldiero (1805),45.4000,11.1833,Italy; Inconclusive battle between Masséna and Archduke Charles; Precision: day,#0891b2,1805-10-30,,,Third Coalition 1803-1805
+Battle of Amstetten,48.1219,14.8722,Austria; French advance guard defeats a Russian rearguard; Precision: day,#0891b2,1805-11-05,,,Third Coalition 1803-1805
+Battle of Dürenstein,48.3944,15.5194,Austria; Fighting between French and Russian forces along the Danube; Precision: day,#0891b2,1805-11-11,,,Third Coalition 1803-1805
+French occupy Vienna,48.2082,16.3738,Austria; Vienna taken without a fight; Precision: day,#0891b2,1805-11-13,,,Third Coalition 1803-1805
+Battle of Castelfranco Veneto,45.6711,11.9272,Italy; French victory over Austrian forces in Italy; Precision: day,#0891b2,1805-11-24,,,Third Coalition 1803-1805
+Battle of Austerlitz,49.1281,16.7589,Czechia; Napoleon's victory over Russia and Austria near the Pratzen Heights; Precision: day,#0891b2,1805-12-02,,,Third Coalition 1803-1805
+Treaty of Pressburg,48.1486,17.1077,Slovakia; Austria makes peace with France; Precision: day,#0891b2,1805-12-26,,,Third Coalition 1803-1805
+Battle of Schleiz,50.5833,11.8167,Germany; First clash of the war with Prussia; Precision: day,#059669,1806-10-09,,,Fourth Coalition 1806-1807
+Battle of Saalfeld,50.6500,11.3667,Germany; French victory; Prince Louis Ferdinand of Prussia is killed; Precision: day,#059669,1806-10-10,,,Fourth Coalition 1806-1807
+Battle of Auerstedt,51.0833,11.6333,Germany; Davout's corps defeats the main Prussian army; Precision: day,#059669,1806-10-14,,,Fourth Coalition 1806-1807
+Battle of Jena,50.9300,11.5900,Germany; Napoleon defeats the main Prussian army; Precision: day,#059669,1806-10-14,,,Fourth Coalition 1806-1807
+Battle of Halle,51.4833,11.9667,Germany; French defeat a Prussian reserve corps; Precision: day,#059669,1806-10-17,,,Fourth Coalition 1806-1807
+Napoleon enters Berlin,52.5200,13.4050,Germany; Triumphal entry into the Prussian capital; Precision: day,#059669,1806-10-27,,,Fourth Coalition 1806-1807
+Battle of Prenzlau,53.3167,13.8667,Germany; Prussian corps under Hohenlohe surrenders; Precision: day,#059669,1806-10-28,,,Fourth Coalition 1806-1807
+Battle of Lübeck,53.8655,10.6866,Germany; French storm the city; Blücher capitulates; Precision: day,#059669,1806-11-06,,,Fourth Coalition 1806-1807
+Capture of Magdeburg,52.1205,11.6276,Germany; Prussian fortress surrenders to Ney; Precision: day,#059669,1806-11-08,,,Fourth Coalition 1806-1807
+Battle of Pułtusk,52.7000,21.0833,Poland; Inconclusive clash between French and Russian forces; Precision: day,#059669,1806-12-26,,,Fourth Coalition 1806-1807
+Battle of Mohrungen,53.9167,19.9333,Poland; French victory over a Russian detachment; Precision: day,#059669,1807-01-25,,,Fourth Coalition 1806-1807
+Battle of Eylau,54.3833,20.6333,Russia; Bloody and indecisive battle in winter; Precision: day,#059669,1807-02-07,1807-02-08,,Fourth Coalition 1806-1807
+Battle of Ostrołęka,53.0833,21.5667,Poland; French victory over a Russian force; Precision: day,#059669,1807-02-16,,,Fourth Coalition 1806-1807
+Siege of Kolberg,54.1756,15.5833,Poland; Prussian garrison holds out until the end of the war; Precision: day,#059669,1807-03-14,1807-07-02,,Fourth Coalition 1806-1807
+Siege of Danzig (1807),54.3520,18.6466,Poland; French capture the city; Precision: day,#059669,1807-03-18,1807-05-24,,Fourth Coalition 1806-1807
+Battle of Heilsberg,54.1252,20.5778,Poland; Hard-fought indecisive battle; Precision: day,#059669,1807-06-10,,,Fourth Coalition 1806-1807
+Battle of Friedland,54.4417,21.0150,Russia; Napoleon's decisive victory over the Russians; Precision: day,#059669,1807-06-14,,,Fourth Coalition 1806-1807
+Treaty of Tilsit,55.0833,21.8833,Russia; Peace between France and Russia; Precision: day,#059669,1807-07-07,,,Fourth Coalition 1806-1807
+Siege of Copenhagen (1807),55.6761,12.5683,Denmark; British bombard and seize the Danish fleet; Precision: day,#059669,1807-08-16,1807-09-07,,Fourth Coalition 1806-1807
+Dos de Mayo uprising,40.4169,-3.7035,Spain; Madrid rises against the French occupation; Precision: day,#ca8a04,1808-05-02,,,Peninsular War 1808-1814
+Battle of El Bruc,41.5942,1.7739,Spain; Spanish irregulars repel a French column; Precision: day,#ca8a04,1808-06-06,,,Peninsular War 1808-1814
+First Siege of Zaragoza,41.6488,-0.8891,Spain; Spanish defenders hold the city; French lift the siege; Precision: day,#ca8a04,1808-06-15,1808-08-14,,Peninsular War 1808-1814
+Battle of Medina de Rioseco,41.8833,-5.0500,Spain; French victory over Spanish armies; Precision: day,#ca8a04,1808-07-14,,,Peninsular War 1808-1814
+Battle of Bailén,38.0967,-3.7778,Spain; Spanish victory forces a French army to surrender; Precision: day,#ca8a04,1808-07-19,,,Peninsular War 1808-1814
+Battle of Vimeiro,39.2500,-9.2900,Portugal; Wellesley's British victory over Junot; Precision: day,#ca8a04,1808-08-21,,,Peninsular War 1808-1814
+Battle of Tudela,42.0617,-1.6050,Spain; French victory over Spanish armies; Precision: day,#ca8a04,1808-11-23,,,Peninsular War 1808-1814
+Battle of Somosierra,41.1667,-3.5833,Spain; Polish lancers charge the pass; road to Madrid opens; Precision: day,#ca8a04,1808-11-30,,,Peninsular War 1808-1814
+Second Siege of Zaragoza,41.6488,-0.8891,Spain; French capture the city after a bloody siege; Precision: day,#ca8a04,1808-12-20,1809-02-20,,Peninsular War 1808-1814
+Battle of Sahagún,42.3706,-5.0292,Spain; British cavalry defeat French dragoons; Precision: day,#ca8a04,1808-12-21,,,Peninsular War 1808-1814
+Battle of Corunna,43.3623,-8.4115,Spain; British army holds off the French; Sir John Moore is killed; Precision: day,#ca8a04,1809-01-16,,,Peninsular War 1808-1814
+Battle of Sacile,45.9544,12.5029,Italy; Austrian victory over Prince Eugène; Precision: day,#ea580c,1809-04-16,,,Fifth Coalition 1809
+Battle of Raszyn,52.1500,20.9167,Poland; Duchy of Warsaw troops hold off the Austrians; Precision: day,#ea580c,1809-04-19,,,Fifth Coalition 1809
+Battle of Abensberg,48.8000,11.8500,Germany; Napoleon splits the Austrian army in Bavaria; Precision: day,#ea580c,1809-04-20,,,Fifth Coalition 1809
+Battle of Landshut,48.5372,12.1522,Germany; French capture the Austrian supply base; Precision: day,#ea580c,1809-04-21,,,Fifth Coalition 1809
+Battle of Eckmühl,48.8833,12.1333,Germany; French victory over Archduke Charles; Precision: day,#ea580c,1809-04-22,,,Fifth Coalition 1809
+Storming of Regensburg,49.0134,12.1016,Germany; French storm the city; Napoleon is lightly wounded; Precision: day,#ea580c,1809-04-23,,,Fifth Coalition 1809
+Battle of Caldiero (1809),45.4000,11.1833,Italy; Inconclusive clash between Eugène and Archduke John; Precision: day,#ea580c,1809-04-30,,,Fifth Coalition 1809
+Battle of Ebelsberg,48.2667,14.3333,Austria; French storm the Traun bridge and town; Precision: day,#ea580c,1809-05-03,,,Fifth Coalition 1809
+Battle of Aspern-Essling,48.2200,16.5000,Austria; Archduke Charles hands Napoleon his first major defeat; Precision: day,#ea580c,1809-05-21,1809-05-22,,Fifth Coalition 1809
+Siege of Girona,41.9794,2.8214,Spain; City holds out for months before capitulating; Precision: day,#ca8a04,1809-06-06,1809-12-12,,Peninsular War 1808-1814
+Battle of Raab,47.6875,17.6504,Hungary; French victory over Archduke John; Precision: day,#ea580c,1809-06-14,,,Fifth Coalition 1809
+Battle of Wagram,48.2917,16.5667,Austria; Napoleon's costly victory over Archduke Charles; Precision: day,#ea580c,1809-07-05,1809-07-06,,Fifth Coalition 1809
+Battle of Znaim,48.8555,16.0488,Czechia; Fighting ends with an armistice; Precision: day,#ea580c,1809-07-10,1809-07-11,,Fifth Coalition 1809
+Battle of Talavera,39.9636,-4.8300,Spain; Anglo-Spanish army holds against the French; Precision: day,#ca8a04,1809-07-27,1809-07-28,,Peninsular War 1808-1814
+Walcheren Expedition,51.4420,3.5736,Netherlands; British landing at Flushing fails amid disease and heavy losses; Precision: day,#ea580c,1809-07-30,1809-12-09,,Fifth Coalition 1809
+Third Battle of Bergisel,47.2500,11.4000,Austria; Tyrolean rebels defeat Bavarian and French troops near Innsbruck; Precision: day,#ea580c,1809-08-13,,,Fifth Coalition 1809
+Treaty of Schönbrunn,48.1845,16.3122,Austria; Austria cedes territory to France and its allies; Precision: day,#ea580c,1809-10-14,,,Fifth Coalition 1809
+Battle of Ocaña,39.9500,-3.4933,Spain; Large French victory over a Spanish army; Precision: day,#ca8a04,1809-11-19,,,Peninsular War 1808-1814
+Siege of Cádiz,36.5297,-6.2926,Spain; French besiege the seat of the Spanish resistance government; Precision: day,#ca8a04,1810-02-05,1812-08-24,,Peninsular War 1808-1814
+Siege of Almeida,40.7261,-6.9067,Portugal; French capture the fortress after a magazine explosion; Precision: day,#ca8a04,1810-07-25,1810-08-27,,Peninsular War 1808-1814
+Battle of Buçaco,40.3700,-8.3600,Portugal; Wellington repulses Masséna's attacks; Precision: day,#ca8a04,1810-09-27,,,Peninsular War 1808-1814
+Battle of Fuentes de Oñoro,40.5500,-6.8667,Spain; Wellington holds the village against Masséna; Precision: day,#ca8a04,1811-05-03,1811-05-05,,Peninsular War 1808-1814
+Siege of Tarragona,41.1189,1.2445,Spain; French storm and sack the city; Precision: day,#ca8a04,1811-05-04,1811-06-29,,Peninsular War 1808-1814
+Battle of Albuera,38.7167,-6.8167,Spain; Bloody Anglo-Spanish-Portuguese victory over Soult; Precision: day,#ca8a04,1811-05-16,,,Peninsular War 1808-1814
+Battle of Sagunto,39.6833,-0.2667,Spain; French victory over Blake's army; Precision: day,#ca8a04,1811-10-25,,,Peninsular War 1808-1814
+Siege of Tarifa,36.0133,-5.6039,Spain; Anglo-Spanish garrison holds out against the French; Precision: day,#ca8a04,1811-12-20,1812-01-05,,Peninsular War 1808-1814
+Siege of Ciudad Rodrigo,40.5967,-6.5336,Spain; Wellington storms the fortress; Precision: day,#ca8a04,1812-01-08,1812-01-19,,Peninsular War 1808-1814
+Siege of Badajoz (1812),38.8794,-6.9707,Spain; Allied army storms the fortress at heavy cost; Precision: day,#ca8a04,1812-03-16,1812-04-06,,Peninsular War 1808-1814
+Grande Armée crosses the Niemen,54.8985,23.9036,Lithuania; Start of the invasion of Russia; Precision: day,#dc2626,1812-06-24,,,Russian Campaign 1812
+French enter Vilna,54.6872,25.2797,Lithuania; Napoleon occupies the city; Precision: day,#dc2626,1812-06-28,,,Russian Campaign 1812
+Battle of Mir,53.4500,26.4667,Belarus; Polish cavalry defeat Cossacks; Precision: day,#dc2626,1812-07-09,,,Russian Campaign 1812
+Battle of Salamanca,40.9000,-5.6167,Spain; Wellington's decisive victory over Marmont; Precision: day,#ca8a04,1812-07-22,,,Peninsular War 1808-1814
+Battle of Saltanovka,53.9000,30.3333,Belarus; Davout stops Bagration's attempt to cross the Dnieper; Precision: day,#dc2626,1812-07-23,,,Russian Campaign 1812
+Battle of Kobrin,52.2167,24.3667,Belarus; Allied victory over a Russian detachment; Precision: day,#dc2626,1812-07-27,,,Russian Campaign 1812
+Battle of Smolensk,54.7818,32.0401,Russia; French take the burning city; Precision: day,#dc2626,1812-08-16,1812-08-18,,Russian Campaign 1812
+First Battle of Polotsk,55.4879,28.7856,Belarus; Inconclusive battle between Oudinot and Wittgenstein; Precision: day,#dc2626,1812-08-17,1812-08-18,,Russian Campaign 1812
+Battle of Borodino,55.5167,35.8167,Russia; Bloodiest day of the campaign; French hold the field; Precision: day,#dc2626,1812-09-07,,,Russian Campaign 1812
+French enter Moscow,55.7558,37.6173,Russia; Napoleon takes the city; fires break out; Precision: day,#dc2626,1812-09-14,,,Russian Campaign 1812
+Siege of Burgos,42.3439,-3.6969,Spain; Wellington fails to take the castle and withdraws; Precision: day,#ca8a04,1812-09-19,1812-10-21,,Peninsular War 1808-1814
+Second Battle of Polotsk,55.4879,28.7856,Belarus; Wittgenstein defeats Saint-Cyr; Precision: day,#dc2626,1812-10-18,1812-10-20,,Russian Campaign 1812
+Battle of Maloyaroslavets,55.0167,36.4500,Russia; French fail to force the southern road; retreat turns north; Precision: day,#dc2626,1812-10-24,,,Russian Campaign 1812
+Battle of Vyazma,55.2111,34.2958,Russia; Russians strike the retreating French rearguard; Precision: day,#dc2626,1812-11-03,,,Russian Campaign 1812
+Battle of Krasny,54.5667,31.4000,Russia; Napoleon fights his way past Russian forces; Precision: day,#dc2626,1812-11-15,1812-11-18,,Russian Campaign 1812
+Battle of the Berezina,54.4000,28.3667,Belarus; French army crosses the river under Russian pressure; Precision: day,#dc2626,1812-11-26,1812-11-29,,Russian Campaign 1812
+Napoleon leaves the army at Smorgon,54.4833,26.4000,Belarus; Napoleon departs for Paris; Precision: day,#dc2626,1812-12-05,,,Russian Campaign 1812
+Convention of Tauroggen,55.2500,22.2833,Lithuania; Prussian General Yorck neutralizes his corps; Precision: day,#9333ea,1812-12-30,,,Sixth Coalition 1813-1814
+Battle of Castalla,38.5978,-0.6717,Spain; Allied victory over Suchet; Precision: day,#ca8a04,1813-04-13,,,Peninsular War 1808-1814
+Battle of Lützen (1813),51.2500,12.1400,Germany; French victory over Russian and Prussian forces; Precision: day,#9333ea,1813-05-02,,,Sixth Coalition 1813-1814
+Battle of Bautzen,51.1817,14.4241,Germany; French victory with heavy losses and no pursuit; Precision: day,#9333ea,1813-05-20,1813-05-21,,Sixth Coalition 1813-1814
+Battle of Vitoria,42.8500,-2.7200,Spain; Wellington's decisive victory over Joseph Bonaparte; Precision: day,#ca8a04,1813-06-21,,,Peninsular War 1808-1814
+Siege of Pamplona (1813),42.8125,-1.6458,Spain; Allied blockade ends with French surrender; Precision: day,#ca8a04,1813-06-26,1813-10-31,,Peninsular War 1808-1814
+Siege of San Sebastián,43.3183,-1.9812,Spain; Allied army storms and takes the town and castle; Precision: day,#ca8a04,1813-07-07,1813-09-08,,Peninsular War 1808-1814
+Battle of Roncesvalles,43.0090,-1.3200,Spain; Soult's offensive pushes back an Allied covering force; Precision: day,#ca8a04,1813-07-25,,,Peninsular War 1808-1814
+Battle of Sorauren,42.8600,-1.6300,Spain; Wellington halts Soult's attempt to relieve Pamplona; Precision: day,#ca8a04,1813-07-28,1813-07-30,,Peninsular War 1808-1814
+Battle of Großbeeren,52.3500,13.3000,Germany; Allied victory protects Berlin; Precision: day,#9333ea,1813-08-23,,,Sixth Coalition 1813-1814
+Battle of Dresden,51.0504,13.7373,Germany; Napoleon's last major victory in Germany; Precision: day,#9333ea,1813-08-26,1813-08-27,,Sixth Coalition 1813-1814
+Battle of the Katzbach,51.2100,16.1600,Poland; Blücher defeats Macdonald; Precision: day,#9333ea,1813-08-26,,,Sixth Coalition 1813-1814
+Battle of Kulm,50.7200,13.9400,Czechia; Allies defeat Vandamme's corps; Precision: day,#9333ea,1813-08-29,1813-08-30,,Sixth Coalition 1813-1814
+Battle of San Marcial,43.3390,-1.7889,Spain; Spanish troops repulse Soult's attack; Precision: day,#ca8a04,1813-08-31,,,Peninsular War 1808-1814
+Battle of Leipzig,51.3397,12.3731,Germany; Battle of the Nations ends French control of Germany; Precision: day,#9333ea,1813-10-16,1813-10-19,,Sixth Coalition 1813-1814
+Battle of Hanau,50.1264,8.9168,Germany; Napoleon defeats Bavarian and Austrian forces blocking his retreat; Precision: day,#9333ea,1813-10-30,1813-10-31,,Sixth Coalition 1813-1814
+Battle of the Nivelle,43.3100,-1.5800,France; Wellington breaks Soult's fortified line; Precision: day,#ca8a04,1813-11-10,,,Peninsular War 1808-1814
+Battle of the Nive,43.4929,-1.4748,France; Soult fails to defeat Wellington's divided army; Precision: day,#ca8a04,1813-12-09,1813-12-13,,Peninsular War 1808-1814
+Battle of Brienne,48.3892,4.5319,France; Napoleon surprises Blücher during the campaign in France; Precision: day,#9333ea,1814-01-29,,,Sixth Coalition 1813-1814
+Battle of Montmirail,48.8667,3.5333,France; Napoleon defeats part of Blücher's army; Precision: day,#9333ea,1814-02-11,,,Sixth Coalition 1813-1814
+Battle of Montereau,48.3836,2.9500,France; French victory over Württemberg and Austrian forces; Precision: day,#9333ea,1814-02-18,,,Sixth Coalition 1813-1814
+Battle of Orthez,43.4833,-0.7667,France; Wellington defeats Soult; Precision: day,#ca8a04,1814-02-27,,,Peninsular War 1808-1814
+Battle of Craonne,49.4500,3.7667,France; French narrowly defeat Blücher's rearguard; Precision: day,#9333ea,1814-03-07,,,Sixth Coalition 1813-1814
+Battle of Laon,49.5633,3.6252,France; Blücher repulses Napoleon; Precision: day,#9333ea,1814-03-09,1814-03-10,,Sixth Coalition 1813-1814
+Battle of Reims,49.2583,4.0317,France; Napoleon retakes the city; Precision: day,#9333ea,1814-03-13,,,Sixth Coalition 1813-1814
+Battle of Arcis-sur-Aube,48.5333,4.1333,France; Napoleon fails to stop the main Allied army; Precision: day,#9333ea,1814-03-20,1814-03-21,,Sixth Coalition 1813-1814
+Battle of Fère-Champenoise,48.7500,3.9833,France; Allies destroy two French corps; Precision: day,#9333ea,1814-03-25,,,Sixth Coalition 1813-1814
+Battle of Paris (1814),48.8566,2.3522,France; Allies take Paris; the city capitulates; Precision: day,#9333ea,1814-03-30,1814-03-31,,Sixth Coalition 1813-1814
+Napoleon abdicates at Fontainebleau,48.4047,2.7016,France; Napoleon gives up the throne; Precision: day,#9333ea,1814-04-06,,,Sixth Coalition 1813-1814
+Battle of Toulouse,43.6045,1.4442,"France; Last major battle of the Peninsular War, fought after Napoleon's abdication; Precision: day",#ca8a04,1814-04-10,,,Peninsular War 1808-1814
+Sortie from Bayonne,43.4929,-1.4748,France; French garrison attacks the besiegers after the war had ended; Precision: day,#ca8a04,1814-04-14,,,Peninsular War 1808-1814
+Napoleon arrives on Elba,42.8123,10.3294,Italy; Exile begins at Portoferraio; Precision: day,#9333ea,1814-05-04,,,Sixth Coalition 1813-1814
+First Treaty of Paris,48.8566,2.3522,France; Peace with the restored Bourbon monarchy; Precision: day,#9333ea,1814-05-30,,,Sixth Coalition 1813-1814
+Napoleon leaves Elba,42.8123,10.3294,Italy; Departure from Portoferraio; Precision: day,#be185d,1815-02-26,,,Hundred Days 1815
+Napoleon lands at Golfe-Juan,43.5700,7.0700,France; Landing in southern France; Precision: day,#be185d,1815-03-01,,,Hundred Days 1815
+Napoleon enters Grenoble,45.1885,5.7245,France; Troops join him on the road north; Precision: day,#be185d,1815-03-07,,,Hundred Days 1815
+Napoleon returns to Paris,48.8566,2.3522,France; Start of the Hundred Days in power; Precision: day,#be185d,1815-03-20,,,Hundred Days 1815
+Battle of Tolentino,43.2100,13.2833,Italy; Austrians defeat Murat's Neapolitan army; Precision: day,#be185d,1815-05-02,1815-05-03,,Hundred Days 1815
+Final Act of the Congress of Vienna,48.2082,16.3738,Austria; Congress concludes the post-war settlement; Precision: day,#be185d,1815-06-09,,,Hundred Days 1815
+Battle of Ligny,50.5000,4.5333,Belgium; Napoleon defeats Blücher's Prussians; Precision: day,#be185d,1815-06-16,,,Hundred Days 1815
+Battle of Quatre Bras,50.5683,4.4283,Belgium; Ney fails to dislodge Wellington's Allies; Precision: day,#be185d,1815-06-16,,,Hundred Days 1815
+Battle of Waterloo,50.6800,4.4125,Belgium; Wellington and Blücher defeat Napoleon; Precision: day,#be185d,1815-06-18,,,Hundred Days 1815
+Battle of Wavre,50.7167,4.6000,Belgium; Grouchy engages the Prussian rearguard while Waterloo is fought; Precision: day,#be185d,1815-06-18,1815-06-19,,Hundred Days 1815
+Napoleon's second abdication,48.8566,2.3522,France; End of the Hundred Days; Precision: day,#be185d,1815-06-22,,,Hundred Days 1815
+Napoleon surrenders to the British,46.0117,-1.1708,France; Boards HMS Bellerophon off Île-d'Aix; Precision: day,#be185d,1815-07-15,,,Hundred Days 1815
+Napoleon arrives on Saint Helena,-15.9244,-5.7181,Saint Helena; Final exile begins; Precision: day,#be185d,1815-10-15,,,Hundred Days 1815
