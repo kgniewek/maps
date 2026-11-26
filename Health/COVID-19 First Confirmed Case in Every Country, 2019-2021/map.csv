@@ -1,0 +1,249 @@
+name,lat,lng,note,color,start,end,icon,layer
+China,30.5928,114.3055,"China; earliest identified case dated 1 December 2019 in Wuhan, Hubei; later investigations suggest infections may have occurred earlier; approximate location; Precision: day",#1f77b4,2019-12-01,,🌊,UN member or observer state
+Thailand,13.6900,100.7501,Thailand; first confirmed case reported in the Bangkok area (traveler from Wuhan detected through airport screening); approximate location; Precision: day,#1f77b4,2020-01-13,,🌊,UN member or observer state
+Japan,35.4437,139.6380,Japan; first confirmed case reported in Kanagawa Prefecture; approximate location; Precision: day,#1f77b4,2020-01-16,,🏝️,UN member or observer state
+South Korea,37.4602,126.4407,South Korea; first confirmed case reported in Incheon International Airport; approximate location; Precision: day,#1f77b4,2020-01-20,,🌊,UN member or observer state
+United States,47.9790,-122.2021,"United States; first confirmed case reported in Snohomish County, Washington; approximate location; Precision: day",#1f77b4,2020-01-20,,🌊,UN member or observer state
+Taiwan,25.0777,121.2328,Taiwan; first confirmed case reported in the Taoyuan airport area; approximate location; Precision: day,#8e24aa,2020-01-21,,🏝️,De facto or partially recognized
+Hong Kong,22.3193,114.1694,China (special administrative region); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-01-22,,🌊,Dependent territory
+Macau,22.1987,113.5439,China (special administrative region); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-01-22,,🌊,Dependent territory
+Nepal,27.7172,85.3240,Nepal; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-01-23,,⛰️,UN member or observer state
+Singapore,1.3521,103.8198,Singapore; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-01-23,,🏝️,UN member or observer state
+Vietnam,10.7769,106.7009,Vietnam; first confirmed case reported in Ho Chi Minh City; approximate location; Precision: day,#1f77b4,2020-01-23,,🌊,UN member or observer state
+France,44.8378,-0.5792,France; first confirmed case reported in Bordeaux; approximate location; Precision: day,#1f77b4,2020-01-24,,🌊,UN member or observer state
+Australia,-37.8136,144.9631,Australia; first confirmed case reported in Melbourne; approximate location; Precision: day,#1f77b4,2020-01-25,,🌊,UN member or observer state
+Canada,43.6532,-79.3832,Canada; first confirmed case reported in Toronto; approximate location; Precision: day,#1f77b4,2020-01-25,,🌊,UN member or observer state
+Malaysia,1.4927,103.7414,Malaysia; first confirmed case reported in Johor Bahru; approximate location; Precision: day,#1f77b4,2020-01-25,,🌊,UN member or observer state
+Cambodia,10.6093,103.5296,Cambodia; first confirmed case reported in Sihanoukville; approximate location; Precision: day,#1f77b4,2020-01-27,,🌊,UN member or observer state
+Germany,48.1351,11.5820,Germany; first confirmed case reported in Bavaria (Munich area); approximate location; Precision: day,#1f77b4,2020-01-27,,🌊,UN member or observer state
+Sri Lanka,6.9271,79.8612,Sri Lanka; first confirmed case reported in Colombo; approximate location; Precision: day,#1f77b4,2020-01-27,,🏝️,UN member or observer state
+Finland,60.1699,24.9384,Finland; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-01-29,,🌊,UN member or observer state
+United Arab Emirates,24.4539,54.3773,United Arab Emirates; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-01-29,,🌊,UN member or observer state
+India,10.5276,76.2144,"India; first confirmed case reported in Thrissur, Kerala; approximate location; Precision: day",#1f77b4,2020-01-30,,🌊,UN member or observer state
+Italy,41.9028,12.4964,Italy; first confirmed case reported in Rome; approximate location; Precision: day,#1f77b4,2020-01-30,,🌊,UN member or observer state
+Philippines,14.5995,120.9842,Philippines; first confirmed case reported in Metro Manila; approximate location; Precision: day,#1f77b4,2020-01-30,,🏝️,UN member or observer state
+Russia,52.0515,113.4712,"Russia; first confirmed case reported in Chita, Zabaykalsky Krai; approximate location; Precision: day",#1f77b4,2020-01-31,,🌊,UN member or observer state
+Spain,28.0916,-17.1133,"Spain; first confirmed case reported in La Gomera, Canary Islands; approximate location; Precision: day",#1f77b4,2020-01-31,,🌊,UN member or observer state
+Sweden,57.7826,14.1618,Sweden; first confirmed case reported in Jönköping; approximate location; Precision: day,#1f77b4,2020-01-31,,🌊,UN member or observer state
+United Kingdom,53.9591,-1.0815,United Kingdom; first confirmed case reported in York; approximate location; Precision: day,#1f77b4,2020-01-31,,🏝️,UN member or observer state
+Belgium,50.8503,4.3517,Belgium; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-02-03,,🌊,UN member or observer state
+Egypt,30.1219,31.4056,Egypt; first confirmed case reported in Cairo; approximate location; Precision: day,#1f77b4,2020-02-14,,🌊,UN member or observer state
+Iran,34.6399,50.8759,Iran; first confirmed case reported in Qom; approximate location; Precision: day,#1f77b4,2020-02-19,,🌊,UN member or observer state
+Israel,32.0475,34.8420,Israel; first confirmed case reported in Sheba Medical Center near Tel Aviv; approximate location; Precision: day,#1f77b4,2020-02-21,,🌊,UN member or observer state
+Lebanon,33.8938,35.5018,Lebanon; first confirmed case reported in Beirut; approximate location; Precision: day,#1f77b4,2020-02-21,,🌊,UN member or observer state
+Afghanistan,34.3529,62.2040,Afghanistan; first confirmed case reported in Herat; approximate location; Precision: day,#1f77b4,2020-02-24,,⛰️,UN member or observer state
+Bahrain,26.2285,50.5860,Bahrain; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-02-24,,🏝️,UN member or observer state
+Iraq,32.0000,44.3300,Iraq; first confirmed case reported in Najaf; approximate location; Precision: day,#1f77b4,2020-02-24,,⛰️,UN member or observer state
+Kuwait,29.3759,47.9774,Kuwait; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-02-24,,🌊,UN member or observer state
+Oman,23.5880,58.3829,Oman; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-02-24,,🌊,UN member or observer state
+Algeria,36.7538,3.0588,Algeria; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-02-25,,🌊,UN member or observer state
+Austria,47.2692,11.4041,"Austria; first confirmed case reported in Innsbruck, Tyrol; approximate location; Precision: day",#1f77b4,2020-02-25,,⛰️,UN member or observer state
+Brazil,-23.5505,-46.6333,Brazil; first confirmed case reported in São Paulo; approximate location; Precision: day,#1f77b4,2020-02-25,,🌊,UN member or observer state
+Croatia,45.8150,15.9819,Croatia; first confirmed case reported in Zagreb; approximate location; Precision: day,#1f77b4,2020-02-25,,🌊,UN member or observer state
+Switzerland,46.0037,8.9511,Switzerland; first confirmed case reported in Ticino; approximate location; Precision: day,#1f77b4,2020-02-25,,⛰️,UN member or observer state
+Georgia,41.7151,44.8271,Georgia; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-02-26,,🌊,UN member or observer state
+Greece,40.6401,22.9444,Greece; first confirmed case reported in Thessaloniki; approximate location; Precision: day,#1f77b4,2020-02-26,,🌊,UN member or observer state
+North Macedonia,41.9981,21.4254,North Macedonia; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-02-26,,⛰️,UN member or observer state
+Norway,59.9139,10.7522,Norway; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-02-26,,🌊,UN member or observer state
+Pakistan,24.8607,67.0011,Pakistan; first confirmed case reported in Karachi; approximate location; Precision: day,#1f77b4,2020-02-26,,🌊,UN member or observer state
+Romania,44.4268,26.1025,Romania; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-02-26,,🌊,UN member or observer state
+Denmark,55.6761,12.5683,Denmark; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-02-27,,🌊,UN member or observer state
+Estonia,59.4370,24.7536,Estonia; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-02-27,,🌊,UN member or observer state
+Netherlands,51.5555,5.0913,Netherlands; first confirmed case reported in Tilburg; approximate location; Precision: day,#1f77b4,2020-02-27,,🌊,UN member or observer state
+Nigeria,6.5244,3.3792,Nigeria; first confirmed case reported in Lagos; approximate location; Precision: day,#1f77b4,2020-02-27,,🌊,UN member or observer state
+San Marino,43.9424,12.4578,San Marino; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-02-27,,⛰️,UN member or observer state
+Azerbaijan,40.4093,49.8671,Azerbaijan; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-02-28,,⛰️,UN member or observer state
+Belarus,53.9006,27.5590,Belarus; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-02-28,,⛰️,UN member or observer state
+Iceland,64.1466,-21.9426,Iceland; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-02-28,,🏝️,UN member or observer state
+Lithuania,54.6872,25.2797,Lithuania; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-02-28,,🌊,UN member or observer state
+Mexico,19.4326,-99.1332,Mexico; first confirmed case reported in Mexico City; approximate location; Precision: day,#1f77b4,2020-02-28,,🌊,UN member or observer state
+Monaco,43.7384,7.4246,Monaco; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-02-28,,🌊,UN member or observer state
+New Zealand,-36.8509,174.7645,New Zealand; first confirmed case reported in Auckland; approximate location; Precision: day,#1f77b4,2020-02-28,,🏝️,UN member or observer state
+Ecuador,-2.1710,-79.9224,Ecuador; first confirmed case reported in Guayaquil; approximate location; Precision: day,#1f77b4,2020-02-29,,🌊,UN member or observer state
+Ireland,53.3498,-6.2603,Ireland; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-02-29,,🏝️,UN member or observer state
+Luxembourg,49.6116,6.1319,Luxembourg; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-02-29,,⛰️,UN member or observer state
+Qatar,25.2854,51.5310,Qatar; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-02-29,,🌊,UN member or observer state
+Armenia,40.1792,44.4991,Armenia; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-01,,⛰️,UN member or observer state
+Czechia,50.0755,14.4378,Czechia; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-01,,⛰️,UN member or observer state
+Dominican Republic,18.4861,-69.9312,Dominican Republic; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-01,,🏝️,UN member or observer state
+Saint Barthélemy,17.8961,-62.8498,France (overseas collectivity); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-03-01,,🏝️,Dependent territory
+Saint Martin,18.0679,-63.0829,France (overseas collectivity); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-03-01,,🏝️,Dependent territory
+Andorra,42.5063,1.5218,Andorra; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-02,,⛰️,UN member or observer state
+Indonesia,6.4025,106.7942,"Indonesia; first confirmed case reported in Depok, West Java; approximate location; Precision: day",#1f77b4,2020-03-02,,🏝️,UN member or observer state
+Jordan,31.9454,35.9284,Jordan; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-02,,🌊,UN member or observer state
+Latvia,56.9496,24.1052,Latvia; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-02,,🌊,UN member or observer state
+Morocco,33.5731,-7.5898,Morocco; first confirmed case reported in Casablanca; approximate location; Precision: day,#1f77b4,2020-03-02,,🌊,UN member or observer state
+Portugal,41.1579,-8.6291,Portugal; first confirmed case reported in Porto; approximate location; Precision: day,#1f77b4,2020-03-02,,🌊,UN member or observer state
+Saudi Arabia,24.7136,46.6753,Saudi Arabia; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-02,,🌊,UN member or observer state
+Senegal,14.7167,-17.4677,Senegal; first confirmed case reported in Dakar; approximate location; Precision: day,#1f77b4,2020-03-02,,🌊,UN member or observer state
+Tunisia,36.8065,10.1815,Tunisia; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-02,,🌊,UN member or observer state
+Argentina,-34.6037,-58.3816,Argentina; first confirmed case reported in Buenos Aires; approximate location; Precision: day,#1f77b4,2020-03-03,,🌊,UN member or observer state
+Chile,-35.4264,-71.6554,Chile; first confirmed case reported in Talca; approximate location; Precision: day,#1f77b4,2020-03-03,,🌊,UN member or observer state
+Gibraltar,36.1408,-5.3536,United Kingdom (overseas territory); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-03-03,,🌊,Dependent territory
+Liechtenstein,47.1410,9.5209,Liechtenstein; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-03,,⛰️,UN member or observer state
+Ukraine,48.2921,25.9358,Ukraine; first confirmed case reported in Chernivtsi; approximate location; Precision: day,#1f77b4,2020-03-03,,🌊,UN member or observer state
+Faroe Islands,62.0097,-6.7716,Denmark (autonomous territory); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-03-04,,🏝️,Dependent territory
+French Guiana,4.9372,-52.3260,France (overseas region); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-03-04,,🌊,Dependent territory
+Hungary,47.4979,19.0402,Hungary; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-04,,⛰️,UN member or observer state
+Poland,51.9356,15.5062,Poland; first confirmed case reported in Zielona Góra; approximate location; Precision: day,#1f77b4,2020-03-04,,🌊,UN member or observer state
+Slovenia,46.0569,14.5058,Slovenia; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-04,,🌊,UN member or observer state
+Bosnia and Herzegovina,43.8563,18.4131,Bosnia and Herzegovina; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-05,,🌊,UN member or observer state
+Martinique,14.6161,-61.0588,France (overseas region); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-03-05,,🏝️,Dependent territory
+Palestine,31.7054,35.2024,Palestine; first confirmed case reported in Bethlehem; approximate location; Precision: day,#1f77b4,2020-03-05,,🌊,UN member or observer state
+South Africa,-29.6006,30.3794,South Africa; first confirmed case reported in KwaZulu-Natal (Pietermaritzburg area); approximate location; Precision: day,#1f77b4,2020-03-05,,🌊,UN member or observer state
+Bhutan,27.4287,89.4164,Bhutan; first confirmed case reported in Paro; approximate location; Precision: day,#1f77b4,2020-03-06,,⛰️,UN member or observer state
+Cameroon,3.8480,11.5021,Cameroon; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-06,,🌊,UN member or observer state
+Colombia,4.7110,-74.0721,Colombia; first confirmed case reported in Bogotá; approximate location; Precision: day,#1f77b4,2020-03-06,,🌊,UN member or observer state
+Costa Rica,9.9281,-84.0907,Costa Rica; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-06,,🌊,UN member or observer state
+Peru,-12.0464,-77.0428,Peru; first confirmed case reported in Lima; approximate location; Precision: day,#1f77b4,2020-03-06,,🌊,UN member or observer state
+Serbia,44.7866,20.4489,Serbia; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-06,,⛰️,UN member or observer state
+Slovakia,48.1486,17.1077,Slovakia; first confirmed case reported in Bratislava; approximate location; Precision: day,#1f77b4,2020-03-06,,⛰️,UN member or observer state
+Togo,6.1725,1.2314,Togo; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-06,,🌊,UN member or observer state
+Vatican City,41.9029,12.4534,Vatican City; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-06,,⛰️,UN member or observer state
+Maldives,4.1755,73.5093,Maldives; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-07,,🏝️,UN member or observer state
+Malta,35.8989,14.5146,Malta; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-07,,🏝️,UN member or observer state
+Moldova,47.0105,28.8638,Moldova; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-07,,⛰️,UN member or observer state
+Paraguay,-25.2637,-57.5759,Paraguay; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-07,,⛰️,UN member or observer state
+Albania,41.3275,19.8187,Albania; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-08,,🌊,UN member or observer state
+Bangladesh,23.8103,90.4125,Bangladesh; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-08,,🌊,UN member or observer state
+Bulgaria,42.8742,25.3187,Bulgaria; first confirmed case reported in Gabrovo; approximate location; Precision: day,#1f77b4,2020-03-08,,🌊,UN member or observer state
+Brunei,4.9031,114.9398,Brunei; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-09,,🌊,UN member or observer state
+Cyprus,35.1856,33.3823,Cyprus; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-09,,🏝️,UN member or observer state
+Guernsey,49.4559,-2.5360,United Kingdom (Crown Dependency); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-03-09,,🏝️,Dependent territory
+Panama,8.9824,-79.5199,Panama; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-09,,🌊,UN member or observer state
+Bolivia,-16.4897,-68.1193,Bolivia; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-10,,⛰️,UN member or observer state
+Burkina Faso,12.3714,-1.5197,Burkina Faso; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-10,,⛰️,UN member or observer state
+DR Congo,-4.4419,15.2663,DR Congo; first confirmed case reported in Kinshasa; approximate location; Precision: day,#1f77b4,2020-03-10,,🌊,UN member or observer state
+Jamaica,17.9714,-76.7922,Jamaica; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-10,,🏝️,UN member or observer state
+Jersey,49.1805,-2.1032,United Kingdom (Crown Dependency); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-03-10,,🏝️,Dependent territory
+Mongolia,47.8864,106.9057,Mongolia; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-10,,⛰️,UN member or observer state
+Northern Cyprus,35.2056,33.3569,Northern Cyprus; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#8e24aa,2020-03-10,,🏝️,De facto or partially recognized
+Cuba,21.8023,-79.9841,"Cuba; first confirmed case reported in Trinidad, Sancti Spíritus; approximate location; Precision: day",#1f77b4,2020-03-11,,🏝️,UN member or observer state
+French Polynesia,-17.5516,-149.5585,France (overseas collectivity); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-03-11,,🏝️,Dependent territory
+Guyana,6.8013,-58.1551,Guyana; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-11,,🌊,UN member or observer state
+Honduras,14.0723,-87.1921,Honduras; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-11,,🌊,UN member or observer state
+Ivory Coast,5.3600,-4.0083,Ivory Coast; first confirmed case reported in Abidjan; approximate location; Precision: day,#1f77b4,2020-03-11,,🌊,UN member or observer state
+Réunion,-20.8789,55.4481,France (overseas region); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-03-11,,🏝️,Dependent territory
+Turkey,39.9334,32.8597,Turkey; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-11,,🌊,UN member or observer state
+Saint Vincent and the Grenadines,13.1600,-61.2248,Saint Vincent and the Grenadines; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-12,,🏝️,UN member or observer state
+Trinidad and Tobago,10.6549,-61.5019,Trinidad and Tobago; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-12,,🏝️,UN member or observer state
+Antigua and Barbuda,17.1274,-61.8468,Antigua and Barbuda; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-13,,🏝️,UN member or observer state
+Aruba,12.5240,-70.0270,Netherlands (constituent country); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-03-13,,🏝️,Dependent territory
+Cayman Islands,19.2866,-81.3744,United Kingdom (overseas territory); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-03-13,,🏝️,Dependent territory
+Curaçao,12.1224,-68.8824,Netherlands (constituent country); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-03-13,,🏝️,Dependent territory
+Ethiopia,9.0300,38.7400,Ethiopia; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-13,,⛰️,UN member or observer state
+Gabon,0.4162,9.4673,Gabon; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-13,,🌊,UN member or observer state
+Ghana,5.6037,-0.1870,Ghana; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-13,,🌊,UN member or observer state
+Guadeloupe,15.9985,-61.7260,France (overseas region); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-03-13,,🏝️,Dependent territory
+Guatemala,14.6349,-90.5069,Guatemala; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-13,,🌊,UN member or observer state
+Guinea,9.6412,-13.5784,Guinea; first confirmed case reported in Conakry; approximate location; Precision: day,#1f77b4,2020-03-13,,🌊,UN member or observer state
+Kazakhstan,43.2220,76.8512,Kazakhstan; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-13,,⛰️,UN member or observer state
+Kenya,-1.2921,36.8219,Kenya; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-13,,🌊,UN member or observer state
+Kosovo,42.6629,21.1655,Kosovo; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#8e24aa,2020-03-13,,⛰️,De facto or partially recognized
+Puerto Rico,18.4655,-66.1057,United States (territory); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-03-13,,🏝️,Dependent territory
+Saint Lucia,14.0101,-60.9875,Saint Lucia; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-13,,🏝️,UN member or observer state
+Sudan,15.5007,32.5599,Sudan; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-13,,🌊,UN member or observer state
+Suriname,5.8520,-55.2038,Suriname; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-13,,🌊,UN member or observer state
+United States Virgin Islands,18.3419,-64.9307,United States (territory); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-03-13,,🏝️,Dependent territory
+Uruguay,-34.9011,-56.1645,Uruguay; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-13,,🌊,UN member or observer state
+Venezuela,10.4806,-66.9036,Venezuela; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-13,,🌊,UN member or observer state
+Central African Republic,4.3947,18.5582,Central African Republic; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-14,,⛰️,UN member or observer state
+Congo,-4.2634,15.2429,Congo; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-14,,🌊,UN member or observer state
+Equatorial Guinea,3.7500,8.7833,Equatorial Guinea; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-14,,🌊,UN member or observer state
+Eswatini,-26.3054,31.1367,Eswatini; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-14,,⛰️,UN member or observer state
+Mauritania,18.0735,-15.9582,Mauritania; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-14,,🌊,UN member or observer state
+Mayotte,-12.7806,45.2278,France (overseas department); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-03-14,,🏝️,Dependent territory
+Namibia,-22.5609,17.0658,Namibia; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-14,,🌊,UN member or observer state
+Rwanda,-1.9441,30.0619,Rwanda; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-14,,⛰️,UN member or observer state
+Seychelles,-4.6191,55.4513,Seychelles; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-14,,🏝️,UN member or observer state
+Akrotiri and Dhekelia,34.5833,32.9833,United Kingdom (overseas territory); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-03-15,,🏝️,Dependent territory
+Bahamas,25.0443,-77.3504,Bahamas; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-15,,🏝️,UN member or observer state
+Guam,13.4443,144.7937,United States (territory); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-03-15,,🏝️,Dependent territory
+Uzbekistan,41.2995,69.2401,Uzbekistan; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-15,,⛰️,UN member or observer state
+Benin,6.3654,2.4183,Benin; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-16,,🌊,UN member or observer state
+Greenland,64.1814,-51.6941,Denmark (autonomous territory); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-03-16,,🏝️,Dependent territory
+Liberia,6.3005,-10.7969,Liberia; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-16,,🌊,UN member or observer state
+Somalia,2.0469,45.3182,Somalia; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-16,,🌊,UN member or observer state
+Tanzania,-3.3869,36.6830,Tanzania; first confirmed case reported in Arusha; approximate location; Precision: day,#1f77b4,2020-03-16,,🌊,UN member or observer state
+Barbados,13.0975,-59.6167,Barbados; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-17,,🏝️,UN member or observer state
+Gambia,13.4549,-16.5790,Gambia; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-17,,🌊,UN member or observer state
+Montenegro,42.4304,19.2594,Montenegro; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-17,,🌊,UN member or observer state
+Sint Maarten,18.0260,-63.0458,Netherlands (constituent country); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-03-17,,🏝️,Dependent territory
+Bermuda,32.2949,-64.7814,United Kingdom (overseas territory); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-03-18,,🏝️,Dependent territory
+Djibouti,11.5886,43.1450,Djibouti; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-18,,🌊,UN member or observer state
+El Salvador,13.6929,-89.2182,El Salvador; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-18,,🌊,UN member or observer state
+Kyrgyzstan,42.8746,74.5698,Kyrgyzstan; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-18,,⛰️,UN member or observer state
+Mauritius,-20.1609,57.5012,Mauritius; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-18,,🏝️,UN member or observer state
+Montserrat,16.7928,-62.2106,United Kingdom (overseas territory); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-03-18,,🏝️,Dependent territory
+New Caledonia,-22.2758,166.4580,France (sui generis collectivity); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-03-18,,🏝️,Dependent territory
+Nicaragua,12.1364,-86.2514,Nicaragua; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-18,,🌊,UN member or observer state
+Zambia,-15.3875,28.3228,Zambia; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-18,,⛰️,UN member or observer state
+Angola,-8.8390,13.2894,Angola; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-19,,🌊,UN member or observer state
+Chad,12.1348,15.0557,Chad; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-19,,⛰️,UN member or observer state
+Fiji,-17.6167,177.4500,Fiji; first confirmed case reported in Lautoka; approximate location; Precision: day,#1f77b4,2020-03-19,,🏝️,UN member or observer state
+Haiti,18.5944,-72.3074,Haiti; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-19,,🏝️,UN member or observer state
+Isle of Man,54.1500,-4.4817,United Kingdom (Crown Dependency); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-03-19,,🏝️,Dependent territory
+Niger,13.5116,2.1254,Niger; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-19,,⛰️,UN member or observer state
+Cape Verde,14.9330,-23.5133,Cape Verde; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-20,,🏝️,UN member or observer state
+Madagascar,-18.8792,47.5079,Madagascar; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-20,,🏝️,UN member or observer state
+Papua New Guinea,-9.4438,147.1803,Papua New Guinea; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-20,,🏝️,UN member or observer state
+Timor-Leste,-8.5569,125.5603,Timor-Leste; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-20,,🏝️,UN member or observer state
+Uganda,0.3476,32.5825,Uganda; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-20,,⛰️,UN member or observer state
+Zimbabwe,-17.9243,25.8572,Zimbabwe; first confirmed case reported in Victoria Falls; approximate location; Precision: day,#1f77b4,2020-03-20,,⛰️,UN member or observer state
+Eritrea,15.3229,38.9251,Eritrea; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-21,,🌊,UN member or observer state
+Transnistria,46.8403,29.6433,Transnistria; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#8e24aa,2020-03-21,,⛰️,De facto or partially recognized
+Dominica,15.3010,-61.3880,Dominica; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-22,,🏝️,UN member or observer state
+Grenada,12.0561,-61.7488,Grenada; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-22,,🏝️,UN member or observer state
+Mozambique,-25.9692,32.5732,Mozambique; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-22,,🌊,UN member or observer state
+Syria,33.5138,36.2765,Syria; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-22,,🌊,UN member or observer state
+Åland,60.0973,19.9348,Finland (autonomous region); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-03-22,,🏝️,Dependent territory
+Belize,17.2510,-88.7590,Belize; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-23,,🌊,UN member or observer state
+Myanmar,16.8409,96.1735,Myanmar; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-23,,🌊,UN member or observer state
+Turks and Caicos Islands,21.4612,-71.1419,United Kingdom (overseas territory); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-03-23,,🏝️,Dependent territory
+Laos,17.9757,102.6331,Laos; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-24,,⛰️,UN member or observer state
+Libya,32.8872,13.1913,Libya; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-24,,🌊,UN member or observer state
+British Virgin Islands,18.4286,-64.6185,United Kingdom (overseas territory); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-03-25,,🏝️,Dependent territory
+Guinea-Bissau,11.8636,-15.5977,Guinea-Bissau; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-25,,🌊,UN member or observer state
+Mali,12.6392,-8.0029,Mali; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-25,,⛰️,UN member or observer state
+Saint Kitts and Nevis,17.3026,-62.7177,Saint Kitts and Nevis; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-25,,🏝️,UN member or observer state
+Anguilla,18.2170,-63.0578,United Kingdom (overseas territory); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-03-26,,🏝️,Dependent territory
+Northern Mariana Islands,15.2123,145.7545,United States (commonwealth); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-03-28,,🏝️,Dependent territory
+Botswana,-24.6282,25.9231,Botswana; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-30,,⛰️,UN member or observer state
+Burundi,-3.3614,29.3599,Burundi; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-31,,⛰️,UN member or observer state
+Donetsk People's Republic,48.0159,37.8029,"Donetsk People's Republic (Russian-backed entity in Ukraine, annexed by Russia in 2022 and not recognized internationally); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day",#8e24aa,2020-03-31,,🌊,De facto or partially recognized
+Luhansk People's Republic,48.5740,39.3078,"Luhansk People's Republic (Russian-backed entity in Ukraine, annexed by Russia in 2022 and not recognized internationally); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day",#8e24aa,2020-03-31,,⛰️,De facto or partially recognized
+Sierra Leone,8.4657,-13.2317,Sierra Leone; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-03-31,,🌊,UN member or observer state
+Sint Eustatius,17.4890,-62.9736,Netherlands (special municipality); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-03-31,,🏝️,Dependent territory
+Somaliland,9.5600,44.0650,Somaliland; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#8e24aa,2020-03-31,,🌊,De facto or partially recognized
+Malawi,-13.9626,33.7741,Malawi; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-04-02,,⛰️,UN member or observer state
+Falkland Islands,-51.6977,-57.8517,United Kingdom (overseas territory); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-04-03,,🏝️,Dependent territory
+Western Sahara,27.1253,-13.1625,"Western Sahara (disputed territory, first case in the Moroccan-controlled part); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day",#8e24aa,2020-04-04,,🌊,De facto or partially recognized
+Saint Pierre and Miquelon,46.7811,-56.1764,France (overseas collectivity); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-04-05,,🏝️,Dependent territory
+South Sudan,4.8594,31.5713,South Sudan; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-04-05,,⛰️,UN member or observer state
+São Tomé and Príncipe,0.3365,6.7273,São Tomé and Príncipe; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-04-06,,🏝️,UN member or observer state
+Abkhazia,43.0015,41.0234,Abkhazia (limited-recognition state in Georgia); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#8e24aa,2020-04-07,,🌊,De facto or partially recognized
+Artsakh,39.8153,46.7519,Artsakh (limited-recognition state in Azerbaijan); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#8e24aa,2020-04-07,,⛰️,De facto or partially recognized
+Yemen,14.7587,49.6094,"Yemen; first confirmed case reported in Ash Shihr, Hadramawt; approximate location; Precision: day",#1f77b4,2020-04-10,,🌊,UN member or observer state
+Saba,17.6150,-63.2467,Netherlands (special municipality); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-04-11,,🏝️,Dependent territory
+Bonaire,12.1443,-68.2655,Netherlands (special municipality); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-04-16,,🏝️,Dependent territory
+Comoros,-11.7022,43.2551,Comoros; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-04-30,,🏝️,UN member or observer state
+Tajikistan,38.5598,68.7870,Tajikistan; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-04-30,,⛰️,UN member or observer state
+South Ossetia,42.2230,43.9640,South Ossetia (limited-recognition state in Georgia); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#8e24aa,2020-05-06,,⛰️,De facto or partially recognized
+Lesotho,-29.3151,27.4869,Lesotho; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-05-13,,⛰️,UN member or observer state
+Sahrawi Arab Democratic Republic,27.6742,-8.1478,Sahrawi Arab Democratic Republic (limited-recognition state); first case reported in the Sahrawi refugee camps near Tindouf; approximate location; Precision: day,#8e24aa,2020-07-25,,🌊,De facto or partially recognized
+"Saint Helena, Ascension and Tristan da Cunha",-15.9244,-5.7181,United Kingdom (overseas territory); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-09-07,,🏝️,Dependent territory
+Solomon Islands,-9.4456,159.9729,Solomon Islands; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-10-03,,🏝️,UN member or observer state
+Wallis and Futuna,-13.2825,-176.1745,France (overseas collectivity); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-10-16,,🏝️,Dependent territory
+Marshall Islands,7.0897,171.3803,Marshall Islands; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-10-28,,🏝️,UN member or observer state
+British Indian Ocean Territory,-7.3195,72.4229,"United Kingdom (overseas territory); first cases reported in November 2020, exact day not given; marker placed at Diego Garcia; approximate location; Precision: month",#e8710a,2020-11-01,,🏝️,Dependent territory
+American Samoa,-14.2756,-170.7020,United States (territory); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2020-11-09,,🏝️,Dependent territory
+Vanuatu,-17.7333,168.3167,Vanuatu; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-11-11,,🏝️,UN member or observer state
+Samoa,-13.8333,-171.7500,Samoa; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2020-11-18,,🏝️,UN member or observer state
+Antarctica,-63.3208,-57.9000,Antarctica (Antarctic Treaty area); first cases reported at a Chilean research station on the Antarctic Peninsula; approximate location; Precision: day,#e8710a,2020-12-21,,🧊,Dependent territory
+Federated States of Micronesia,6.9248,158.1610,Federated States of Micronesia; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2021-01-08,,🏝️,UN member or observer state
+Kiribati,1.3278,172.9770,Kiribati; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2021-05-18,,🏝️,UN member or observer state
+Palau,7.3419,134.4792,Palau; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2021-05-31,,🏝️,UN member or observer state
+Svalbard,78.2232,15.6267,Norway (unincorporated area); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2021-10-06,,🏝️,Dependent territory
+Tonga,-21.1394,-175.2018,Tonga; first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#1f77b4,2021-10-29,,🏝️,UN member or observer state
+Cook Islands,-21.2078,-159.7750,New Zealand (free association); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2021-12-03,,🏝️,Dependent territory
+Norfolk Island,-29.0556,167.9594,Australia (external territory); first confirmed case in the country or territory; approximate location (capital used as marker); Precision: day,#e8710a,2021-12-30,,🏝️,Dependent territory
