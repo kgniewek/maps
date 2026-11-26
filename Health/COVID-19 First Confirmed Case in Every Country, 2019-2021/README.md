@@ -2,8 +2,8 @@ The first human cases of COVID-19, the disease caused by the coronavirus SARS-Co
 
 Thailand reported the first confirmed case outside China on 13 January 2020, followed by Japan, South Korea, Taiwan, Singapore, Nepal and Vietnam within days. The United States confirmed its first case in Washington state on 20 January, France reported the first case in Europe on 24 January, and Australia became the first in Oceania the following day. The World Health Organization declared a public health emergency of international concern on 30 January 2020. Egypt announced the first case in Africa on 14 February, Iran reported its first cases on 19 February and soon became an early center of the outbreak, and Brazil confirmed the first case in South America in late February.
 
-![IMAGE_PLACEHOLDER](IMAGE_URL_HERE)
-*Illustration of the 2019 novel coronavirus (SARS-CoV-2), Alissa Eckert and Dan Higgins, Centers for Disease Control and Prevention*
+![IMAGE_PLACEHOLDER](https://commons.wikimedia.org/wiki/File:SARS-CoV-2_without_background.png#/media/File:SARS-CoV-2_without_background.png)
+*2019 novel coronavirus (SARS-CoV-2), Centers for Disease Control and Prevention*
 
 The pace quickened sharply in late February and March 2020, when a large outbreak in northern Italy and travel from Iran and elsewhere seeded cases across Europe, the Middle East and the Americas. Dozens of countries and territories announced a first case on single days in mid-March, and the World Health Organization characterized the situation as a pandemic on 11 March. By 17 March every country in Europe had reported a case, and Saint Kitts and Nevis became the last North American country to do so on 25 March. Sub-Saharan Africa followed through March and April, and Lesotho, the last sovereign African state to remain free of the virus, reported a case on 13 May 2020. Early cases were mostly imported by air travelers, and limited testing capacity meant that infections were often present well before they were detected.
 
